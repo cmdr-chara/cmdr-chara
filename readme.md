@@ -1,131 +1,115 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&center=true&vCenter=true&width=980&lines=cmdr-chara;AI+tooling+%E2%80%A2+coding+agents+%E2%80%A2+worldbuilding;building+useful+things+and+fractured+worlds" alt="Typing SVG" />
-  <br />
-  <a href="https://github.com/cmdr-chara">
-    <img src="https://komarev.com/ghpvc/?username=cmdr-chara&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://www.wattpad.com/myworks/389549996-fractured-hope">
-    <img src="https://img.shields.io/badge/Wattpad-Fractured%20Hope-ff500a?style=for-the-badge" alt="Fractured Hope" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=cmdr-chara&fontAlign=50&fontAlignY=38&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&desc=basic%20coder%20%7C%20writer%20%7C%20fractured%20hope&descAlign=50&descAlignY=60" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=just+making+cool+stuff;learning+as+i+go;writing+fractured+hope+too" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=cmdr-chara&style=for-the-badge&label=views&color=blueviolet" />
+<a href="https://www.wattpad.com/myworks/389549996-fractured-hope">
+  <img src="https://img.shields.io/badge/wattpad-fractured_hope-ff500a?style=for-the-badge&logo=wattpad&logoColor=white" />
+</a>
+
 </div>
 
-<h3 align="center">AI tools, coding agents, web projects, and a little controlled chaos.</h3>
-
-<p align="center">
-  I like building practical software with style — especially things around AI, automation, developer experience, and stories with sharp edges.
-</p>
-
-<p align="center">
-  Lately, that also includes <b>Fractured Hope</b>: a dark, timeline-fractured project built around memory, soul research, and determination.
-</p>
-
 ---
-
-## About Me
-
-- Building tools that are useful, weird, or both
-- Into AI workflows, dev tooling, and clean interfaces
-- Also writing <b>Fractured Hope</b> on Wattpad
-- Big fan of projects with lore, systems, and emotional damage
-
-## Tech
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,git,github,vscode&perline=8" alt="Skills" />
+
+### hey, i'm chara
+
+basic coder, story writer, and professional enjoyer of cool ideas, weird projects, and timeline-breaking vibes.
+
 </div>
 
 ---
 
-## Writing Corner
+## about me
+
+- i'm still learning, so my coding stack is pretty simple
+- i mainly know **basic c++**, **html**, **css**, and **javascript**
+- i like making stuff that feels fun, stylish, or a little chaotic
+- i'm also writing **Fractured Hope**, which is where a lot of my darker/worldbuilding energy goes
+
+---
+
+## stuff i use
 
 <div align="center">
-  <a href="https://www.wattpad.com/myworks/389549996-fractured-hope">
-    <img src="https://img.shields.io/badge/Read-Fractured%20Hope-ff500a?style=for-the-badge" alt="Read Fractured Hope" />
-  </a>
-</div>
 
-> **Fractured Hope**  
-> A dark, reset-scarred story about broken timelines, fractured identity, soul research, and what survives when memory doesn’t.
+<img src="https://img.shields.io/badge/C%2B%2B-basic-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-yes-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-yes-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-yes-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br>
+
+<img src="https://img.shields.io/badge/writing-lore%20and%20pain-8a2be2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/worldbuilding-very%20real-5d3fd3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/status-still%20learning-2ea44f?style=for-the-badge" />
+
+</div>
 
 ---
 
-## Featured Projects
+## currently
+
+- learning more while building small projects
+- experimenting with web stuff
+- writing **Fractured Hope**
+- trying to make my profile look cooler than my life
+
+---
+
+## featured stuff
 
 <div align="center">
   <a href="https://github.com/cmdr-chara/LLM-API-Key-Proxy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=LLM-API-Key-Proxy&hide_border=true&theme=transparent" alt="LLM-API-Key-Proxy" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=LLM-API-Key-Proxy&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/cmdr-chara/opencode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=opencode&hide_border=true&theme=transparent" alt="opencode" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=opencode&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/cmdr-chara/clawdbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=clawdbot&hide_border=true&theme=transparent" alt="clawdbot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=clawdbot&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/cmdr-chara/morphe-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=morphe-website&hide_border=true&theme=transparent" alt="morphe-website" />
+  <a href="https://github.com/cmdr-chara/DeltaruneItalianPack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=DeltaruneItalianPack&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
 ---
 
-## GitHub Stats
+## github stuff
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=cmdr-chara&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=cmdr-chara&show_icons=true&include_all_commits=true&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=cmdr-chara&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-  </picture>
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdr-chara&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdr-chara&layout=compact&langs_count=8&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdr-chara&layout=compact&langs_count=8&hide_border=true" alt="Top languages" />
-  </picture>
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cmdr-chara&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdr-chara&layout=compact&theme=tokyonight&hide_border=true" />
 
-<div align="center">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=cmdr-chara&hide_border=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=cmdr-chara&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://streak-stats.demolab.com?user=cmdr-chara&hide_border=true" alt="GitHub streak" />
-  </picture>
+<br>
+
+<img src="https://streak-stats.demolab.com?user=cmdr-chara&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## Activity
-
-<picture>
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=cmdr-chara&theme=tokyo-night&hide_border=true&area=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=cmdr-chara&theme=github-light&hide_border=true&area=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cmdr-chara&theme=github-light&hide_border=true&area=true" alt="Contribution graph" />
-</picture>
+## a little writing corner
 
 <div align="center">
-  <sub>Building tools, systems, and stories that hit a little too hard.</sub>
+
+> fractured timelines, broken memories, soul research, and way too many feelings.
+
+<a href="https://www.wattpad.com/myworks/389549996-fractured-hope">
+  <img src="https://img.shields.io/badge/read%20fractured%20hope-on%20wattpad-ff500a?style=for-the-badge&logo=wattpad&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f0c29,50:302b63,100:24243e" width="100%" />
 </div>
