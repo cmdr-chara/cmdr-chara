@@ -1,115 +1,160 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=cmdr-chara&fontAlign=50&fontAlignY=38&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&desc=basic%20coder%20%7C%20writer%20%7C%20fractured%20hope&descAlign=50&descAlignY=60" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=just+making+cool+stuff;learning+as+i+go;writing+fractured+hope+too" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=cmdr-chara&style=for-the-badge&label=views&color=blueviolet" />
-<a href="https://www.wattpad.com/myworks/389549996-fractured-hope">
-  <img src="https://img.shields.io/badge/wattpad-fractured_hope-ff500a?style=for-the-badge&logo=wattpad&logoColor=white" />
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2600&pause=900&color=FF3B3B&center=true&vCenter=true&width=1100&lines=cmdr-chara;stay+determined.;basic+coder+%2F+writer+%2F+chaos+enjoyer;basic+C%2B%2B+%7C+basic+HTML+%7C+basic+CSS+%7C+a+little+JS" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/FIGHT-8B0000?style=for-the-badge&logoColor=white" alt="FIGHT" />
+  <img src="https://img.shields.io/badge/ACT-8B0000?style=for-the-badge&logoColor=white" alt="ACT" />
+  <img src="https://img.shields.io/badge/ITEM-8B0000?style=for-the-badge&logoColor=white" alt="ITEM" />
+  <img src="https://img.shields.io/badge/MERCY-8B0000?style=for-the-badge&logoColor=white" alt="MERCY" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/basic%20C%2B%2B-8B0000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="basic C++" />
+  <img src="https://img.shields.io/badge/basic%20HTML-8B0000?style=for-the-badge&logo=html5&logoColor=white" alt="basic HTML" />
+  <img src="https://img.shields.io/badge/basic%20CSS-8B0000?style=for-the-badge&logo=css3&logoColor=white" alt="basic CSS" />
+  <img src="https://img.shields.io/badge/a%20little%20JS-8B0000?style=for-the-badge&logo=javascript&logoColor=white" alt="a little JS" />
+</p>
+
+<p align="center">
+  <a href="https://www.wattpad.com/myworks/389549996-fractured-hope">
+    <img src="https://img.shields.io/badge/Wattpad-Fractured%20Hope-8B0000?style=for-the-badge&logo=wattpad&logoColor=white" alt="Fractured Hope" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cmdr-chara&style=for-the-badge&label=DETERMINATION&color=8B0000" alt="Profile views" />
+</p>
+
 ---
+
+<pre align="center">
+╔══════════════════════════════════════════════════════════════╗
+║                          SAVE FILE                           ║
+╠══════════════════════════════════════════════════════════════╣
+║ name   : cmdr-chara                                          ║
+║ class  : basic coder / writer                                ║
+║ knows  : basic C++, basic HTML, basic CSS, a little JS       ║
+║ status : still learning                                      ║
+║ vibe   : style / lore / chaos                                ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
+
+---
+
+## ACT
+
+hey, i'm chara.
+
+i'm not some expert dev, and i'm not trying to pretend i am.
+
+i only know **basic c++**, **basic html**, **basic css**, and **a little javascript**.  
+i'm still learning, still experimenting, and mostly making things because they seem fun, stylish, or interesting enough to try.
+
+a lot of the vibe here comes from the stuff i like:
+- game aesthetics
+- weird ideas
+- dark / glitchy energy
+- worldbuilding
+- projects with actual personality
+
+i also write **Fractured Hope**, so that definitely leaks into the profile a little.
+
+---
+
+## ITEM
+
+### current inventory
+- basic c++
+- basic html
+- basic css
+- a little js
+- too many ideas
+- not enough finished things
+- one very dramatic aesthetic
+
+### current objective
+- get better little by little
+- make small web things
+- keep learning without faking being a genius
+- build stuff that feels cool
+- keep writing **Fractured Hope**
+
+---
+
+## SOUL TRAITS
+
+| trait | description |
+|---|---|
+| **determination** | still learning, still making stuff anyway |
+| **style** | i like things that look good, not just things that technically work |
+| **lore** | characters, atmosphere, weird story energy, worldbuilding |
+| **chaos** | random ideas, side projects, experiments, unfinished concepts |
+| **honesty** | i do not know 20 languages and i'm not pretending to |
+
+---
+
+## CURRENTLY
+
+- learning more as i go
+- messing with simple web stuff
+- trying to improve without turning my profile into fake resume propaganda
+- writing story stuff and overthinking aesthetics
+- making this page more dramatic than it really needs to be
+
+---
+
+## FEATURED THING
 
 <div align="center">
-
-### hey, i'm chara
-
-basic coder, story writer, and professional enjoyer of cool ideas, weird projects, and timeline-breaking vibes.
-
-</div>
-
----
-
-## about me
-
-- i'm still learning, so my coding stack is pretty simple
-- i mainly know **basic c++**, **html**, **css**, and **javascript**
-- i like making stuff that feels fun, stylish, or a little chaotic
-- i'm also writing **Fractured Hope**, which is where a lot of my darker/worldbuilding energy goes
-
----
-
-## stuff i use
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C%2B%2B-basic-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-yes-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-yes-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-yes-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<br>
-
-<img src="https://img.shields.io/badge/writing-lore%20and%20pain-8a2be2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/worldbuilding-very%20real-5d3fd3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/status-still%20learning-2ea44f?style=for-the-badge" />
-
-</div>
-
----
-
-## currently
-
-- learning more while building small projects
-- experimenting with web stuff
-- writing **Fractured Hope**
-- trying to make my profile look cooler than my life
-
----
-
-## featured stuff
-
-<div align="center">
-  <a href="https://github.com/cmdr-chara/LLM-API-Key-Proxy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=LLM-API-Key-Proxy&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/cmdr-chara/opencode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=opencode&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/cmdr-chara/clawdbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=clawdbot&theme=tokyonight&hide_border=true" />
-  </a>
   <a href="https://github.com/cmdr-chara/DeltaruneItalianPack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=DeltaruneItalianPack&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=DeltaruneItalianPack&theme=shadow_red&hide_border=true" alt="DeltaruneItalianPack" />
+  </a>
+</div>
+
+<p align="center">
+  this one actually fits the vibe, so it gets the spotlight.
+</p>
+
+---
+
+## STATS / SAVE DATA
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cmdr-chara&show_icons=true&theme=shadow_red&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdr-chara&layout=compact&theme=shadow_red&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=cmdr-chara&hide_border=true&background=0D1117&stroke=8B0000&ring=FF3B3B&fire=FF3B3B&currStreakNum=FF6666&sideNums=FF6666&currStreakLabel=FF3B3B&sideLabels=FF3B3B&dates=FFFFFF" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cmdr-chara&bg_color=0d1117&color=ff4d4d&line=8b0000&point=ff6666&area=true&hide_border=true&custom_title=DETERMINATION%20LEVEL" alt="Activity graph" />
+</div>
+
+---
+
+## WRITING CORNER
+
+> fractured timelines, broken memories, soul stuff, and way too many feelings.
+
+<div align="center">
+  <a href="https://www.wattpad.com/myworks/389549996-fractured-hope">
+    <img src="https://img.shields.io/badge/read%20Fractured%20Hope-on%20Wattpad-8B0000?style=for-the-badge&logo=wattpad&logoColor=white" alt="Read Fractured Hope" />
   </a>
 </div>
 
 ---
 
-## github stuff
+## EXTRA INFO
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cmdr-chara&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdr-chara&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=cmdr-chara&theme=tokyonight&hide_border=true" />
-
-</div>
+- i like profiles with actual personality
+- i don't want this page to look like linkedin with blood on it
+- yes, the dramatic styling is intentional
+- yes, i'm still a beginner
+- no, i'm not replacing that with fake expert wording
 
 ---
 
-## a little writing corner
-
-<div align="center">
-
-> fractured timelines, broken memories, soul research, and way too many feelings.
-
-<a href="https://www.wattpad.com/myworks/389549996-fractured-hope">
-  <img src="https://img.shields.io/badge/read%20fractured%20hope-on%20wattpad-ff500a?style=for-the-badge&logo=wattpad&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f0c29,50:302b63,100:24243e" width="100%" />
-</div>
+<pre align="center">
+* you feel a strange presence.
+* it fills you with determination.
+</pre>
