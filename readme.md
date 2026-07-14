@@ -73,34 +73,16 @@ inventory:
 
 ## FEATURED
 
-<div align="center">
-  <a href="https://github.com/cmdr-chara/LeaveFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=LeaveFlow&hide_border=false&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF&icon_color=FF3B3B&border_color=3A0D0D" alt="LeaveFlow" />
-  </a>
-  <a href="https://github.com/cmdr-chara/codex-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=codex-toolkit&hide_border=false&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF&icon_color=FF3B3B&border_color=3A0D0D" alt="Codex Toolkit" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/cmdr-chara/smart-building-controller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=smart-building-controller&hide_border=false&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF&icon_color=FF3B3B&border_color=3A0D0D" alt="Smart Building Controller" />
-  </a>
-  <a href="https://github.com/cmdr-chara/DeltaruneItalianPack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmdr-chara&repo=DeltaruneItalianPack&hide_border=false&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF&icon_color=FF3B3B&border_color=3A0D0D" alt="Deltarune Italian Pack" />
-  </a>
-</div>
+| Project | What it demonstrates |
+| --- | --- |
+| [**LeaveFlow**](https://github.com/cmdr-chara/LeaveFlow) | Full-stack leave management with Django REST Framework, Vue, PostgreSQL, Docker, automated tests, and CI. |
+| [**Codex Toolkit**](https://github.com/cmdr-chara/codex-toolkit) | Reusable Codex skills and model-routed agents with `npx` and PowerShell installers. |
+| [**Smart Building Controller**](https://github.com/cmdr-chara/smart-building-controller) | Flutter, PHP, ESP32, and Arduino integrated into one documented hardware/software system. |
+| [**Deltarune Italian Pack**](https://github.com/cmdr-chara/DeltaruneItalianPack) | Italian localization package with an automated GitHub release workflow. |
 
 ---
 
 ## SAVE DATA
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cmdr-chara&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF&icon_color=FF3B3B&border_color=3A0D0D" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdr-chara&layout=compact&hide_border=false&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF&border_color=3A0D0D" alt="Most used languages" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=cmdr-chara&hide_border=false&background=0D1117&border=3A0D0D&stroke=8B0000&ring=FF3B3B&fire=FF3B3B&currStreakNum=FF6666&sideNums=FF6666&currStreakLabel=FF3B3B&sideLabels=FF3B3B&dates=FFFFFF&hide_current_streak=true&hide_longest_streak=true" alt="Contribution activity" />
