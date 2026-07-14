@@ -18,9 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.wattpad.com/myworks/389549996-fractured-hope">
-    <img src="https://img.shields.io/badge/Fractured%20Hope-Wattpad-8B0000?style=for-the-badge&logo=wattpad&logoColor=white&labelColor=0D1117" alt="Fractured Hope on Wattpad" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=cmdr-chara&style=for-the-badge&label=DETERMINATION&color=8B0000&labelColor=0D1117" alt="Profile views" />
 </p>
 
@@ -63,7 +60,7 @@ outside the terminal, i like game aesthetics, worldbuilding, localization, and w
 inventory:
 - three merged upstream pull requests
 - full-stack systems with tests, CI, and Docker
-- automation and developer-tool experiments
+- automation workflows and developer tools
 - game-inspired software and localization work
 - fractured hope notes
 - determination
@@ -79,14 +76,6 @@ inventory:
 | [**Codex Toolkit**](https://github.com/cmdr-chara/codex-toolkit) | Reusable Codex skills and model-routed agents with `npx` and PowerShell installers. |
 | [**Smart Building Controller**](https://github.com/cmdr-chara/smart-building-controller) | Flutter, PHP, ESP32, and Arduino integrated into one documented hardware/software system. |
 | [**Deltarune Italian Pack**](https://github.com/cmdr-chara/DeltaruneItalianPack) | Italian localization package with an automated GitHub release workflow. |
-
----
-
-## SAVE DATA
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cmdr-chara&hide_border=false&background=0D1117&border=3A0D0D&stroke=8B0000&ring=FF3B3B&fire=FF3B3B&currStreakNum=FF6666&sideNums=FF6666&currStreakLabel=FF3B3B&sideLabels=FF3B3B&dates=FFFFFF&hide_current_streak=true&hide_longest_streak=true" alt="Contribution activity" />
-</div>
 
 ---
 
