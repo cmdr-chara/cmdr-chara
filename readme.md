@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2600&pause=900&color=FF3B3B&center=true&vCenter=true&width=1000&lines=cmdr-chara;SAVE+FILE+LOADED;software+developer;open-source+contributor;Python+%7C+TypeScript+%7C+Django+%7C+Docker;stay+determined." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2600&pause=900&color=FF3B3B&center=true&vCenter=true&width=620&lines=cmdr-chara;SAVE+FILE+LOADED;software+developer;open-source+contributor;Python+%7C+TypeScript+%7C+Django+%7C+Docker;stay+determined." alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -26,12 +26,12 @@
 ```text
 SAVE FILE LOADED
 
-name   : cmdr-chara
-class  : software developer / open-source contributor / writer
-builds : backend systems, automation, developer tools, strange ideas
-stack  : Python, TypeScript, Django, Docker, n8n
-status : shipping, contributing, still learning
-route  : make useful things, keep the personality, avoid linkedin energy
+name  : cmdr-chara
+class : developer / OSS contributor / writer
+builds: backend / automation / dev tools
+stack : Python / TypeScript / Django / Docker
+mode  : shipping / learning
+route : useful things without linkedin energy
 ```
 
 ## ACT
@@ -54,27 +54,13 @@ outside the terminal, i like game aesthetics, worldbuilding, localization, and w
 
 ---
 
-## ITEM
-
-```text
-inventory:
-- three merged upstream pull requests
-- full-stack systems with tests, CI, and Docker
-- automation workflows and developer tools
-- game-inspired software and localization work
-- fractured hope notes
-- determination
-```
-
----
-
 ## FEATURED
 
 | Project | What it demonstrates |
 | --- | --- |
 | [**LeaveFlow**](https://github.com/cmdr-chara/LeaveFlow) | Full-stack leave management with Django REST Framework, Vue, PostgreSQL, Docker, automated tests, and CI. |
 | [**Codex Toolkit**](https://github.com/cmdr-chara/codex-toolkit) | Reusable Codex skills and model-routed agents with `npx` and PowerShell installers. |
-| [**Smart Building Controller**](https://github.com/cmdr-chara/smart-building-controller) | Flutter, PHP, ESP32, and Arduino integrated into one documented hardware/software system. |
+| [**Smart Building**](https://github.com/cmdr-chara/smart-building-controller) | Flutter, PHP, ESP32, and Arduino integrated into one documented hardware/software system. |
 | [**Deltarune Italian Pack**](https://github.com/cmdr-chara/DeltaruneItalianPack) | Italian localization package with an automated GitHub release workflow. |
 
 ---
