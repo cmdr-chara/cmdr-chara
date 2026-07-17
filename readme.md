@@ -1,72 +1,83 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2600&pause=900&color=FF3B3B&center=true&vCenter=true&width=620&lines=cmdr-chara;SAVE+FILE+LOADED;software+developer;open-source+contributor;Python+%7C+TypeScript+%7C+Django+%7C+Docker;stay+determined." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2400&pause=850&color=FF3B3B&center=true&vCenter=true&width=760&lines=cmdr-chara;SAVE+FILE+LOADED;backend+%2F+automation+%2F+open+source;Go+%7C+Python+%7C+TypeScript+%7C+Docker;stay+determined." alt="cmdr-chara — backend, automation and open source" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FIGHT-8B0000?style=for-the-badge&labelColor=0D1117" alt="FIGHT" />
-  <img src="https://img.shields.io/badge/ACT-8B0000?style=for-the-badge&labelColor=0D1117" alt="ACT" />
-  <img src="https://img.shields.io/badge/ITEM-8B0000?style=for-the-badge&labelColor=0D1117" alt="ITEM" />
-  <img src="https://img.shields.io/badge/MERCY-8B0000?style=for-the-badge&labelColor=0D1117" alt="MERCY" />
+  <a href="#check"><img src="https://img.shields.io/badge/FIGHT-8B0000?style=for-the-badge&labelColor=0D1117" alt="FIGHT — profile" /></a>
+  <a href="#quest-log"><img src="https://img.shields.io/badge/ACT-8B0000?style=for-the-badge&labelColor=0D1117" alt="ACT — open-source work" /></a>
+  <a href="#inventory"><img src="https://img.shields.io/badge/ITEM-8B0000?style=for-the-badge&labelColor=0D1117" alt="ITEM — technical stack" /></a>
+  <a href="https://www.wattpad.com/myworks/389549996-fractured-hope"><img src="https://img.shields.io/badge/MERCY-8B0000?style=for-the-badge&labelColor=0D1117" alt="MERCY — Fractured Hope" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-8B0000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Django-8B0000?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117" alt="Django" />
-  <img src="https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-8B0000?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117" alt="GitHub Actions" />
-</p>
+<div align="center">
+  <img src="assets/undertale-dialogue-ry-hq.gif" alt="Animated red and yellow Chara dialogue box: Backend. Automation. OSS. Still determined." />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cmdr-chara&style=for-the-badge&label=DETERMINATION&color=8B0000&labelColor=0D1117" alt="Profile views" />
+  <sub>Original Chara R&amp;Y portrait by Alatorll · textbox rendered with <a href="https://www.demirramon.com/generators/undertale_text_box_generator">Demirramon's generator</a></sub>
 </p>
 
 ---
 
 ```text
-SAVE FILE LOADED
+SAVE FILE // 01
 
-name  : cmdr-chara
-class : developer / OSS contributor / writer
-builds: backend / automation / dev tools
-stack : Python / TypeScript / Django / Docker
-mode  : shipping / learning
-route : useful things without linkedin energy
+alias  : cmdr-chara
+class  : backend developer / OSS contributor / writer
+builds : APIs / automation / developer tools / data pipelines
+stack  : Go / Python / TypeScript / Django / Docker
+status : shipping, learning, contributing upstream
+route  : useful things without linkedin energy
 ```
 
-## ACT
+## CHECK
 
-hey, i'm chara.
+I build **backend systems**, **automation workflows**, and developer tools that turn vague requirements into tested, documented software. My work spans **Go**, **Python**, **Django REST Framework**, **TypeScript**, **Docker**, CI/CD, and AI-data pipelines.
 
-i build **backend systems**, **automation workflows**, and tools that turn vague ideas into tested, documented software. my current stack is mostly **Python**, **Django REST Framework**, **TypeScript**, **Docker**, and **GitHub Actions**.
+I also contribute to codebases I do not own. That means reading unfamiliar systems, responding to review, passing CI, and leaving the project better than I found it.
 
-i also contribute to projects i don't own. my merged work includes a CLI input-buffering fix with regression tests, a SciPy-based optimizer for a quantum-computing example, and built-in themes for an open-source AI coding agent.
+> Outside the terminal: game aesthetics, localization, worldbuilding, and **Fractured Hope**. The darker vibe is staying.
 
-outside the terminal, i like game aesthetics, worldbuilding, localization, and writing **Fractured Hope**. the darker vibe is staying.
+## QUEST LOG
 
----
+| Status | Upstream contribution | What changed |
+| :---: | --- | --- |
+| `MERGED` | [`TestSprite/testsprite-cli` #118](https://github.com/TestSprite/testsprite-cli/pull/118) | Preserved buffered input across sequential CLI prompts and added regression coverage for piped input, EOF, CRLF, and secret prompts. |
+| `MERGED` | [`Quantinuum/guppylang` #1801](https://github.com/Quantinuum/guppylang/pull/1801) | Replaced random QAOA parameter search with `scipy.optimize.minimize`, validated the notebook end-to-end, and passed 11 automated checks. |
+| `MERGED` | [`anomalyco/opencode` #8240](https://github.com/anomalyco/opencode/pull/8240) | Added Undertale and Deltarune themes to an open-source AI coding agent. |
 
-## OPEN-SOURCE LOG
+## INVENTORY
 
-- [`TestSprite/testsprite-cli` #118](https://github.com/TestSprite/testsprite-cli/pull/118) - preserved buffered input between sequential prompts and added regression coverage for piped input, EOF, CRLF, and secret prompts. **Merged July 2026.**
-- [`Quantinuum/guppylang` #1801](https://github.com/Quantinuum/guppylang/pull/1801) - replaced random QAOA parameter search with `scipy.optimize.minimize`; executed the notebook end-to-end and passed 11 automated checks. **Merged June 2026.**
-- [`anomalyco/opencode` #8240](https://github.com/anomalyco/opencode/pull/8240) - added Undertale and Deltarune built-in themes to an open-source AI coding agent. **Merged January 2026.**
+<p>
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=44B78B" alt="Django" />
+  <img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=42B883" alt="Vue" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
+</p>
 
----
+```text
+equipped : REST APIs / SQL / JSONL / SFT-RAG / testing / CI-CD
+learning : cloud-native systems / distributed services / deeper Go
+passive  : curiosity + stubborn debugging + documentation instinct
+```
 
-## FEATURED
+## SAVE POINTS
 
-| Project | What it demonstrates |
-| --- | --- |
-| [**LeaveFlow**](https://github.com/cmdr-chara/LeaveFlow) | Full-stack leave management with Django REST Framework, Vue, PostgreSQL, Docker, automated tests, and CI. |
-| [**Codex Toolkit**](https://github.com/cmdr-chara/codex-toolkit) | Reusable Codex skills and model-routed agents with `npx` and PowerShell installers. |
-| [**Smart Building**](https://github.com/cmdr-chara/smart-building-controller) | Flutter, PHP, ESP32, and Arduino integrated into one documented hardware/software system. |
-| [**Deltarune Italian Pack**](https://github.com/cmdr-chara/DeltaruneItalianPack) | Italian localization package with an automated GitHub release workflow. |
-
----
+| Project | Build | Proof |
+| --- | --- | --- |
+| [**PulseDock**](https://github.com/cmdr-chara/PulseDock) | Concurrent service monitor in Go with live metrics and a bilingual dashboard. | Go · concurrency · observability · API/UI |
+| [**LeaveFlow**](https://github.com/cmdr-chara/LeaveFlow) | Full-stack leave-management system with roles, workflows, logging, tests, and CI. | Django REST · Vue · PostgreSQL · Docker |
+| [**Codex Toolkit**](https://github.com/cmdr-chara/codex-toolkit) | Reusable Codex skills, model-routed agents, and cross-platform installers. | Python · agents · automation · tooling |
+| [**Smart Building Controller**](https://github.com/cmdr-chara/smart-building-controller) | Documented hardware/software system connecting a Flutter app to PHP and ESP32/Arduino services. | Flutter · Dart · PHP · C++ · IoT |
+| [**Deltarune Italian Pack**](https://github.com/cmdr-chara/DeltaruneItalianPack) | Italian localization package with an automated release workflow. | localization · packaging · GitHub Actions |
 
 <details>
-<summary><b>open secret file</b></summary>
+<summary><b>OPEN SECRET FILE</b></summary>
 
 ```text
 - you opened it.
@@ -87,12 +98,11 @@ that's basically it.
 ---
 
 <p align="center">
-  <a href="https://www.wattpad.com/myworks/389549996-fractured-hope">
-    <img src="https://img.shields.io/badge/read%20Fractured%20Hope-8B0000?style=for-the-badge&logo=wattpad&logoColor=white&labelColor=0D1117" alt="Read Fractured Hope" />
-  </a>
+  <a href="https://www.wattpad.com/myworks/389549996-fractured-hope"><img src="https://img.shields.io/badge/READ_FRACTURED_HOPE-8B0000?style=for-the-badge&logo=wattpad&logoColor=white&labelColor=0D1117" alt="Read Fractured Hope" /></a>
+  <img src="https://komarev.com/ghpvc/?username=cmdr-chara&style=for-the-badge&label=DETERMINATION&color=8B0000&labelColor=0D1117" alt="Profile views" />
 </p>
 
 ```text
-- you feel a strange presence.
-- it fills you with determination.
+* you feel a strange presence.
+* it fills you with determination.
 ```

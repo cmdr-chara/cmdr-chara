@@ -1,0 +1,25 @@
+{
+  "output": "undertale-dialogue-ry-hq.gif",
+  "fallback": "undertale-dialogue-ry-hq.png",
+  "source_sprite": "chara-ry-neutral-hq.png",
+  "dimensions": {
+    "width": 1180,
+    "height": 328
+  },
+  "animation": {
+    "frames": 46,
+    "loop": true,
+    "effect": "two-line typewriter reveal with final hold"
+  },
+  "copy": [
+    "* Backend. Automation.",
+    "OSS. Still determined."
+  ],
+  "palette": {
+    "background": "#000000",
+    "red": "#FF3B3B",
+    "yellow": "#FFD84D",
+    "sprite_white": "#FFFFFF"
+  },
+  "provenance": "Deterministic pixel-preserving composition from the user-supplied higher-resolution sprite. Nearest-neighbor scaling; no generative alteration."
+}
