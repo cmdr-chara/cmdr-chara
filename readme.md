@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/undertale-dialogue-ry-hq.gif" alt="Animated red and yellow Chara dialogue box: Backend. Automation. OSS. Still determined." />
+  <img src="assets/undertale-dialogue-ry-hq.gif" width="760" alt="Animated three-line red and yellow Chara dialogue box: Backend and automation; open source and AI data; still determined." />
 </div>
 
 <p align="center">

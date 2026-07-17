@@ -4,16 +4,17 @@
   "source_sprite": "chara-ry-neutral-hq.png",
   "dimensions": {
     "width": 1180,
-    "height": 328
+    "height": 400
   },
   "animation": {
-    "frames": 46,
+    "frames": 65,
     "loop": true,
-    "effect": "two-line typewriter reveal with final hold"
+    "effect": "three-line typewriter reveal with final hold"
   },
   "copy": [
-    "* Backend. Automation.",
-    "OSS. Still determined."
+    "* BACKEND / AUTOMATION",
+    "OPEN SOURCE / AI DATA",
+    "STILL DETERMINED."
   ],
   "palette": {
     "background": "#000000",
