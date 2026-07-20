@@ -43,7 +43,7 @@ I also contribute to codebases I do not own. That means reading unfamiliar syste
 | Status | Upstream contribution | What changed |
 | :---: | --- | --- |
 | `MERGED` | [`TestSprite/testsprite-cli` #118](https://github.com/TestSprite/testsprite-cli/pull/118) | Preserved buffered input across sequential CLI prompts and added regression coverage for piped input, EOF, CRLF, and secret prompts. |
-| `MERGED` | [`Quantinuum/guppylang` #1801](https://github.com/Quantinuum/guppylang/pull/1801) | Replaced random QAOA parameter search with `scipy.optimize.minimize`, validated the notebook end-to-end, and passed 11 automated checks. |
+| `BOUNTY` | [unitaryHACK 2026 · `Quantinuum/guppylang` #1801](https://unitaryhack.dev/projects/guppy-hugr-tket/) | Won the USD 100 Guppy/HUGR/TKET bounty by integrating `scipy.optimize.minimize` into the QAOA MaxCut example; the [PR](https://github.com/Quantinuum/guppylang/pull/1801) passed review and 11 automated checks. |
 | `MERGED` | [`anomalyco/opencode` #8240](https://github.com/anomalyco/opencode/pull/8240) | Added Undertale and Deltarune themes to an open-source AI coding agent. |
 
 ## INVENTORY
