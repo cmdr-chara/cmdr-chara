@@ -46,7 +46,6 @@ I also contribute to codebases I do not own. That means reading unfamiliar syste
 | `BOUNTY` | [unitaryHACK 2026 · `Quantinuum/guppylang` #1801](https://unitaryhack.dev/projects/guppy-hugr-tket/) | Won the USD 100 Guppy/HUGR/TKET bounty by integrating `scipy.optimize.minimize` into the QAOA MaxCut example; the [PR](https://github.com/Quantinuum/guppylang/pull/1801) passed review and 11 automated checks. |
 | `MERGED` | [`anomalyco/opencode` #8240](https://github.com/anomalyco/opencode/pull/8240) | Added Undertale and Deltarune themes to an open-source AI coding agent. |
 | `OPEN` | [`Emanuele-web04/synara` #476](https://github.com/Emanuele-web04/synara/pull/476) | Hardened provider lifecycle recovery, stale Claude session handling, command admission, and compensating checkpoint rollback, with focused regression coverage. |
-| `OPEN` | [`deltamodders/deltamod` #66](https://github.com/deltamodders/deltamod/pull/66) | Removed a hard-coded GameBanana submission exclusion so compatible mods are evaluated consistently instead of being silently filtered. |
 
 ## INVENTORY
 
