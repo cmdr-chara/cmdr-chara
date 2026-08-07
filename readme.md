@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2400&pause=850&color=FF3B3B&center=true&vCenter=true&width=760&lines=cmdr-chara;SAVE+FILE+LOADED;backend+%2F+automation+%2F+open+source;Go+%7C+Python+%7C+TypeScript+%7C+Docker;stay+determined." alt="cmdr-chara — backend, automation and open source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2400&pause=850&color=FF3B3B&center=true&vCenter=true&width=760&lines=cmdr-chara;SAVE+FILE+LOADED;backend+%2F+automation+%2F+open+source;Go+%7C+Python+%7C+TypeScript+%7C+Docker+%7C+Kubernetes;stay+determined." alt="cmdr-chara — backend, automation and open source" />
 </div>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/undertale-dialogue-ry-hq.gif" width="760" alt="Animated three-line red and yellow Chara dialogue box: Backend and automation; open source and AI data; still determined." />
+  <img src="assets/undertale-dialogue-ry-hq.gif" width="700" alt="Animated three-line red and yellow Chara dialogue box: Backend and automation; open source and AI data; still determined." />
 </div>
 
 <p align="center">
@@ -25,14 +25,14 @@ SAVE FILE // 01
 alias  : cmdr-chara
 class  : backend developer / OSS contributor / writer
 builds : APIs / automation / developer tools / data pipelines
-stack  : Go / Python / TypeScript / Django / Docker
+stack  : Go / Python / TypeScript / Django / Docker / Kubernetes
 status : shipping, learning, contributing upstream
 route  : useful things without linkedin energy
 ```
 
 ## CHECK
 
-I build **backend systems**, **automation workflows**, and developer tools that turn vague requirements into tested, documented software. My work spans **Go**, **Python**, **Django REST Framework**, **TypeScript**, **Docker**, CI/CD, and AI-data pipelines.
+I build **backend systems**, **automation workflows**, and developer tools that turn vague requirements into tested, documented software. My work spans **Go**, **Python**, **Django REST Framework**, **TypeScript**, **Docker**, **Kubernetes/Kustomize**, CI/CD, and AI-data pipelines.
 
 I also contribute to codebases I do not own. That means reading unfamiliar systems, responding to review, passing CI, and leaving the project better than I found it.
 
@@ -57,12 +57,13 @@ I also contribute to codebases I do not own. That means reading unfamiliar syste
   <img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=42B883" alt="Vue" />
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
 </p>
 
 ```text
-equipped : REST APIs / SQL / JSONL / SFT-RAG / testing / CI-CD
+equipped : REST APIs / SQL / Redis Streams / SFT-RAG / Kubernetes / testing / CI-CD
 learning : cloud-native systems / distributed services / deeper Go
 passive  : curiosity + stubborn debugging + documentation instinct
 ```
@@ -72,9 +73,10 @@ passive  : curiosity + stubborn debugging + documentation instinct
 | Project | Build | Proof |
 | --- | --- | --- |
 | [**PulseDock**](https://github.com/cmdr-chara/PulseDock) | Concurrent service monitor in Go with live metrics and a bilingual dashboard. | Go · concurrency · observability · API/UI |
-| [**LeaveFlow**](https://github.com/cmdr-chara/LeaveFlow) | Full-stack leave-management system with roles, workflows, logging, tests, and CI. | Django REST · Vue · PostgreSQL · Docker |
+| [**LeaveFlow**](https://github.com/cmdr-chara/LeaveFlow) | Full-stack leave-management system with roles, workflows, logging, tests, CI, and a Kustomize-based Kubernetes deployment with probes, autoscaling, disruption budgets and network policies. | Django REST · Vue · PostgreSQL · Redis · Docker · Kubernetes |
 | [**Deltamod Community**](https://github.com/cmdr-chara/deltamod) | Community fork of a GameMaker mod manager with isolated profiles, transactional patching, migration tooling, automated checks, and Windows/Linux beta builds. | Electron · TypeScript · Vitest · Playwright · CI/CD |
 | [**Codex Toolkit**](https://github.com/cmdr-chara/codex-toolkit) | Reusable Codex skills, model-routed agents, and cross-platform installers. | Python · agents · automation · tooling |
+| **Local Job Collector** | Local job-search workflow that discovers roles, filters noise, checks ATS links, deduplicates postings, stores results in SQLite, and generates Markdown/CSV shortlists. | Python · JobSpy · ATS APIs · SQLite |
 | [**Smart Building Controller**](https://github.com/cmdr-chara/smart-building-controller) | Documented hardware/software system connecting a Flutter app to PHP and ESP32/Arduino services. | Flutter · Dart · PHP · C++ · IoT |
 | [**Deltarune Italian Pack**](https://github.com/cmdr-chara/DeltaruneItalianPack) | Italian localization package with an automated release workflow. | localization · packaging · GitHub Actions |
 
