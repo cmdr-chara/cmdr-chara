@@ -31,7 +31,7 @@ I like software with visible boundaries: tests that catch real regressions, CI t
 ## CURRENT SAVE
 
 - Migrating [**Deltamod Community**](https://github.com/cmdr-chara/deltamod/tree/wip/tauri-beta) toward a Rust and Tauri v2 core while keeping its existing users and GameMaker workflows in mind.
-- Building an [**enhanced UTDR SoupGen branch**](https://github.com/cmdr-chara/UTDR-SoupGen/tree/codex/enhanced-soupgen) with safer storage, ZIP handling, GIF export, and an automated GameMaker build.
+- Building an [**enhanced UTDR SoupGen branch**](https://github.com/cmdr-chara/UTDR-SoupGen/tree/enhanced-soupgen) with safer storage, ZIP handling, GIF export, and an automated GameMaker build.
 - Maintaining the finished tools below and fixing the parts that only show up after people actually use them.
 
 ## SAVE POINTS
