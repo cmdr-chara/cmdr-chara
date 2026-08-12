@@ -1,100 +1,109 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2400&pause=850&color=FF3B3B&center=true&vCenter=true&width=760&lines=cmdr-chara;SAVE+FILE+LOADED;backend+%2F+automation+%2F+open+source;Go+%7C+Python+%7C+TypeScript+%7C+Docker+%7C+Kubernetes;stay+determined." alt="cmdr-chara — backend, automation and open source" />
+  <img src="assets/chara-wink-dialogue-red-green.gif" width="360" alt="Animated Undertale-style dialogue box: Backend and platform development; open source and AI data; still determined." />
+
+  <p>
+    <strong>cmdr-chara</strong><br />
+    backend · platform · developer tooling · Italy / CET
+  </p>
+
+  <p>
+    <a href="#current-save">current work</a> ·
+    <a href="#save-points">projects</a> ·
+    <a href="#quest-log">open source</a> ·
+    <a href="#inventory">stack</a>
+  </p>
 </div>
 
 <p align="center">
-  <a href="#check"><img src="https://img.shields.io/badge/FIGHT-8B0000?style=for-the-badge&labelColor=0D1117" alt="FIGHT — profile" /></a>
-  <a href="#quest-log"><img src="https://img.shields.io/badge/ACT-8B0000?style=for-the-badge&labelColor=0D1117" alt="ACT — open-source work" /></a>
-  <a href="#inventory"><img src="https://img.shields.io/badge/ITEM-8B0000?style=for-the-badge&labelColor=0D1117" alt="ITEM — technical stack" /></a>
-  <a href="https://www.wattpad.com/myworks/389549996-fractured-hope"><img src="https://img.shields.io/badge/MERCY-8B0000?style=for-the-badge&labelColor=0D1117" alt="MERCY — Fractured Hope" /></a>
-</p>
-
-<div align="center">
-  <img src="assets/undertale-dialogue-ry-hq.gif" width="700" alt="Animated three-line red and yellow Chara dialogue box: Backend and automation; open source and AI data; still determined." />
-</div>
-
-<p align="center">
-  <sub>Original Chara R&amp;Y portrait by Alatorll · textbox rendered with <a href="https://www.demirramon.com/generators/undertale_text_box_generator">Demirramon's generator</a></sub>
+  <sub>Facing Demons Chara sprite by Jude · textbox rendered with <a href="https://www.demirramon.com/generators/undertale_text_box_generator">Demirramon's generator</a></sub>
 </p>
 
 ---
 
-```text
-SAVE FILE // 01
-
-alias  : cmdr-chara
-class  : backend developer / OSS contributor / writer
-builds : APIs / automation / developer tools / data pipelines
-stack  : Go / Python / TypeScript / Django / Docker / Kubernetes
-status : shipping, learning, contributing upstream
-route  : useful things without linkedin energy
-```
-
 ## CHECK
 
-I build **backend systems**, **automation workflows**, and developer tools that turn vague requirements into tested, documented software. My work spans **Go**, **Python**, **Django REST Framework**, **TypeScript**, **Docker**, **Kubernetes/Kustomize**, CI/CD, and AI-data pipelines.
+I'm a junior backend and platform developer with **3+ years of hands-on project work**. I build services, desktop tooling, and local-first utilities, mostly with **Rust, Go, Python, and TypeScript**.
 
-I also contribute to codebases I do not own. That means reading unfamiliar systems, responding to review, passing CI, and leaving the project better than I found it.
+I like software with visible boundaries: tests that catch real regressions, CI that proves the build, documentation that explains the awkward parts, and operations that can be reproduced on another machine.
 
-> Outside the terminal: game aesthetics, localization, worldbuilding, and **Fractured Hope**. The darker vibe is staying.
+> Based in Italy, EU citizen, and open to remote junior roles in backend, platform engineering, and developer tooling.
 
-## QUEST LOG
+## CURRENT SAVE
 
-| Status | Upstream contribution | What changed |
-| :---: | --- | --- |
-| `MERGED` | [`TestSprite/testsprite-cli` #118](https://github.com/TestSprite/testsprite-cli/pull/118) | Preserved buffered input across sequential CLI prompts and added regression coverage for piped input, EOF, CRLF, and secret prompts. |
-| `BOUNTY` | [unitaryHACK 2026 · `Quantinuum/guppylang` #1801](https://unitaryhack.dev/projects/guppy-hugr-tket/) | Won the USD 100 Guppy/HUGR/TKET bounty by integrating `scipy.optimize.minimize` into the QAOA MaxCut example; the [PR](https://github.com/Quantinuum/guppylang/pull/1801) passed review and 11 automated checks. |
-| `MERGED` | [`anomalyco/opencode` #8240](https://github.com/anomalyco/opencode/pull/8240) | Added Undertale and Deltarune themes to an open-source AI coding agent. |
-| `8 MERGED` | [`Emanuele-web04/synara`](https://github.com/Emanuele-web04/synara) · [merged PRs](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara+is%3Amerged) | Improved UI reliability, provider recovery, live activity and thread-state handling across seven upstream contributions, with focused regression coverage. |
-
-## INVENTORY
-
-<p>
-  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=44B78B" alt="Django" />
-  <img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=42B883" alt="Vue" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
-</p>
-
-```text
-equipped : REST APIs / SQL / Redis Streams / SFT-RAG / Kubernetes / testing / CI-CD
-learning : cloud-native systems / distributed services / deeper Go
-passive  : curiosity + stubborn debugging + documentation instinct
-```
+- Migrating [**Deltamod Community**](https://github.com/cmdr-chara/deltamod/tree/wip/tauri-beta) toward a Rust and Tauri v2 core while keeping its existing users and GameMaker workflows in mind.
+- Building an [**enhanced UTDR SoupGen branch**](https://github.com/cmdr-chara/UTDR-SoupGen/tree/codex/enhanced-soupgen) with safer storage, ZIP handling, GIF export, and an automated GameMaker build.
+- Maintaining the finished tools below and fixing the parts that only show up after people actually use them.
 
 ## SAVE POINTS
 
-| Project | Build | Proof |
-| --- | --- | --- |
-| [**PulseDock**](https://github.com/cmdr-chara/PulseDock) | Concurrent service monitor in Go with live metrics and a bilingual dashboard. | Go · concurrency · observability · API/UI |
-| [**LeaveFlow**](https://github.com/cmdr-chara/LeaveFlow) | Full-stack leave-management system with roles, workflows, logging, tests, CI, and a Kustomize-based Kubernetes deployment with probes, autoscaling, disruption budgets and network policies. | Django REST · Vue · PostgreSQL · Redis · Docker · Kubernetes |
-| [**Deltamod Community**](https://github.com/cmdr-chara/deltamod) | Community fork of a GameMaker mod manager with isolated profiles, transactional patching, migration tooling, automated checks, and Windows/Linux beta builds. | Electron · TypeScript · Vitest · Playwright · CI/CD |
-| [**Codex Toolkit**](https://github.com/cmdr-chara/codex-toolkit) | Reusable Codex skills, model-routed agents, and cross-platform installers. | Python · agents · automation · tooling |
-| **Local Job Collector** | Local job-search workflow that discovers roles, filters noise, checks ATS links, deduplicates postings, stores results in SQLite, and generates Markdown/CSV shortlists. | Python · JobSpy · ATS APIs · SQLite |
-| [**Smart Building Controller**](https://github.com/cmdr-chara/smart-building-controller) | Documented hardware/software system connecting a Flutter app to PHP and ESP32/Arduino services. | Flutter · Dart · PHP · C++ · IoT |
-| [**Deltarune Italian Pack**](https://github.com/cmdr-chara/DeltaruneItalianPack) | Italian localization package with an automated release workflow. | localization · packaging · GitHub Actions |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cmdr-chara/deltamod"><strong>Deltamod Community</strong></a><br />
+      Cross-platform GameMaker mod manager with transactional installs, archive validation, automated tests, and beta releases for Windows, macOS, and Linux.<br /><br />
+      <code>Rust</code> <code>Tauri</code> <code>Electron</code> <code>TypeScript</code> <code>Playwright</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cmdr-chara/open-job-scout"><strong>OpenJobScout</strong></a><br />
+      Local-first CLI for finding, verifying, ranking, and tracking jobs. Rules stay inspectable and application data stays in SQLite on the user's machine.<br /><br />
+      <code>Python</code> <code>SQLite</code> <code>CLI</code> <code>pytest</code> <code>CI</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://cmdr-chara.github.io/localeguard/"><strong>LocaleGuard</strong></a> · <a href="https://github.com/cmdr-chara/localeguard">source</a><br />
+      Browser-based JSON localization preflight. It catches broken placeholders, markup, escapes, structure, and GameMaker-style control markers without uploading files.<br /><br />
+      <code>TypeScript</code> <code>React</code> <code>Vite</code> <code>Vitest</code> <code>GitHub Pages</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cmdr-chara/codex-toolkit"><strong>Codex Toolkit</strong></a><br />
+      Fifteen installable Codex skills, six optional agents, cross-platform setup helpers, offline validation, and smoke tests for real repository work.<br /><br />
+      <code>Python</code> <code>agents</code> <code>automation</code> <code>validation</code> <code>tooling</code>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>OPEN SECRET FILE</b></summary>
+<summary><strong>More systems work</strong></summary>
+
+- [**LeaveFlow**](https://github.com/cmdr-chara/LeaveFlow): role-aware leave workflows, Django REST, Vue, PostgreSQL, Redis Streams, an Elixir/OTP worker, authenticated SSE, Docker, and Kubernetes/Kustomize.
+- [**PulseDock**](https://github.com/cmdr-chara/PulseDock): concurrent Go service monitor with bounded workers, connection reuse, structured logs, Prometheus metrics, rolling uptime and p95 reporting, and graceful shutdown.
+- [**UTDR Dataset Toolkit**](https://huggingface.co/datasets/cmdr-chara/utdr-dataset-toolkit): public documentation and synthetic samples for a private SFT/RAG data pipeline, including provenance boundaries, split-leakage controls, and sealed evaluation cases.
+- [**Smart Building Controller**](https://github.com/cmdr-chara/smart-building-controller): awarded school project connecting a Flutter app to PHP and ESP32/Arduino services for building automation.
+
+</details>
+
+## QUEST LOG
+
+| Status | Upstream contribution | Result |
+| :---: | --- | --- |
+| `BOUNTY` | [unitaryHACK 2026 · `Quantinuum/guppylang` #1801](https://github.com/Quantinuum/guppylang/pull/1801) | Integrated `scipy.optimize.minimize` into the QAOA MaxCut example, passed review and 11 automated checks, and earned the Guppy/HUGR/TKET bounty. |
+| `MERGED` | [`TestSprite/testsprite-cli` #118](https://github.com/TestSprite/testsprite-cli/pull/118) | Preserved buffered input across sequential CLI prompts and added regression coverage for piped input, EOF, CRLF, and secret prompts. |
+| `ACTIVE` | [`Emanuele-web04/synara`](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara+is%3Amerged) | Multiple merged PRs improving UI reliability, provider recovery, live activity, thread-state handling, and regression coverage. |
+| `MERGED` | [`anomalyco/opencode` #8240](https://github.com/anomalyco/opencode/pull/8240) | Added Undertale and Deltarune themes to the open-source coding agent. |
+
+## INVENTORY
+
+| Area | Tools I use |
+| --- | --- |
+| Languages | `Rust` · `Go` · `Python` · `TypeScript` · `SQL` · `Dart` |
+| Backend and data | `REST APIs` · `Django REST` · `Node.js` · `PostgreSQL` · `SQLite` · `Redis Streams` |
+| Desktop and web | `Tauri v2` · `Electron` · `React` · `Vue 3` · `Flutter` · `Vite` |
+| Platform | `Docker` · `Kubernetes` · `Kustomize` · `Prometheus` · `GitHub Actions` |
+| Quality | `pytest` · `Vitest` · `Playwright` · `CI/CD` · structured logging · reproducible builds |
+
+<details>
+<summary><strong>OPEN SECRET FILE</strong></summary>
 
 ```text
 - you opened it.
 - nice.
 
-currently:
-- building systems
-- contributing upstream
-- documenting the weird parts
-- learning by shipping
-- writing stories when the code behaves
-
-that's basically it.
+outside the terminal:
+- game aesthetics
+- localization
+- worldbuilding
+- Fractured Hope
 ```
 
 </details>
@@ -102,8 +111,8 @@ that's basically it.
 ---
 
 <p align="center">
-  <a href="https://www.wattpad.com/myworks/389549996-fractured-hope"><img src="https://img.shields.io/badge/READ_FRACTURED_HOPE-8B0000?style=for-the-badge&logo=wattpad&logoColor=white&labelColor=0D1117" alt="Read Fractured Hope" /></a>
-  <img src="https://komarev.com/ghpvc/?username=cmdr-chara&style=for-the-badge&label=DETERMINATION&color=8B0000&labelColor=0D1117" alt="Profile views" />
+  Found something useful? Issues and pull requests are welcome.<br />
+  <sub>A star helps me see which projects people want me to keep improving.</sub>
 </p>
 
 ```text
