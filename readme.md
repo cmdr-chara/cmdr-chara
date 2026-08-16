@@ -118,24 +118,24 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/deltamod"><strong>Deltamod Community</strong></a><br /><br />
-      Community-maintained GameMaker mod manager moving from Electron to Tauri v2, with transactional patching and verified releases.<br /><br />
+      Community mod manager for DELTARUNE, UNDERTALE, and other GameMaker games. Supports local imports, multiple profiles, and checksum-verified Tauri v2 releases.<br /><br />
       <code>Rust</code> <code>Tauri v2</code> <code>TypeScript</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/codex-toolkit"><strong>Codex Toolkit</strong></a><br /><br />
-      Installable Codex skills and agents with cross-platform setup, offline validation, and smoke-tested workflows.<br /><br />
-      <code>Python</code> <code>automation</code> <code>tooling</code>
+      Fifteen installable Codex skills and six optional agents for real software projects. Includes offline structural validation and network-free smoke tests.<br /><br />
+      <code>Python</code> <code>agents</code> <code>validation</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/open-job-scout"><strong>OpenJobScout</strong></a><br /><br />
-      Local-first CLI that discovers, ranks, and tracks job applications while keeping scoring and data inspectable.<br /><br />
-      <code>Python</code> <code>SQLite</code> <code>pytest</code>
+      Privacy-first job discovery, verification, ranking, and tracking with transparent scoring and local SQLite storage. No hosted account or automatic applications.<br /><br />
+      <code>Rust</code> <code>Python</code> <code>SQLite</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/localeguard"><strong>LocaleGuard</strong></a><br /><br />
-      Browser-only localization preflight that catches placeholder, markup, escape, and GameMaker control-marker errors before release.<br /><br />
+      Browser-only JSON localization QA for structural drift, placeholders, markup, escapes, and GameMaker control markers. Files never leave the browser.<br /><br />
       <code>TypeScript</code> <code>React</code> <code>Vitest</code>
     </td>
   </tr>
