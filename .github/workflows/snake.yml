@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#ff3347
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff3347
+            dist/github-contribution-grid-snake.svg?color_snake=#e7e0d2&color_dots=#f6f8fa,#ffd5da,#ff9aa6,#ff6678,#ff3347
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#e7e0d2&color_dots=#161b22,#3b0b10,#6b111b,#a51b29,#ff3347
 
       - name: Generate profile statistics
         run: |
