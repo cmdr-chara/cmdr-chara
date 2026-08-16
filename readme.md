@@ -15,10 +15,10 @@
 </div>
 
 <p align="center">
-  <img src="assets/tech/rust.png" height="44" alt="Rust" />
-  <img src="assets/tech/typescript.png" height="44" alt="TypeScript" />
-  <img src="assets/tech/python.png" height="44" alt="Python" />
-  <img src="assets/tech/go.png" height="44" alt="Go" />
+  <img src="assets/tech/rust.png" height="34" alt="Rust" />&nbsp;
+  <img src="assets/tech/typescript.png" height="34" alt="TypeScript" />&nbsp;
+  <img src="assets/tech/python.png" height="34" alt="Python" />&nbsp;
+  <img src="assets/tech/go.png" height="34" alt="Go" />
 </p>
 
 <p align="center">
@@ -33,19 +33,19 @@
 <summary><strong>Languages</strong></summary>
 <br />
 <p>
-  <img src="assets/tech/rust.png" height="44" alt="Rust" />
-  <img src="assets/tech/typescript.png" height="44" alt="TypeScript" />
-  <img src="assets/tech/javascript.png" height="44" alt="JavaScript" />
-  <img src="assets/tech/python.png" height="44" alt="Python" />
-  <img src="assets/tech/go.png" height="44" alt="Go" />
-  <img src="assets/tech/cplusplus.png" height="44" alt="C++" />
-  <img src="assets/tech/elixir.png" height="44" alt="Elixir" />
-  <img src="assets/tech/php.png" height="44" alt="PHP" />
-  <img src="assets/tech/csharp.png" height="44" alt="C sharp" />
-  <img src="assets/tech/powershell.png" height="44" alt="PowerShell" />
-  <img src="assets/tech/sql.png" height="44" alt="SQL" />
-  <img src="assets/tech/gml.png" height="44" alt="GameMaker Language" />
-  <img src="assets/tech/dart.png" height="44" alt="Dart" />
+  <img src="assets/tech/rust.png" height="30" alt="Rust" />&nbsp;
+  <img src="assets/tech/typescript.png" height="30" alt="TypeScript" />&nbsp;
+  <img src="assets/tech/javascript.png" height="30" alt="JavaScript" />&nbsp;
+  <img src="assets/tech/python.png" height="30" alt="Python" />&nbsp;
+  <img src="assets/tech/go.png" height="30" alt="Go" />&nbsp;
+  <img src="assets/tech/cplusplus.png" height="30" alt="C++" />&nbsp;
+  <img src="assets/tech/elixir.png" height="30" alt="Elixir" />&nbsp;
+  <img src="assets/tech/php.png" height="30" alt="PHP" />&nbsp;
+  <img src="assets/tech/csharp.png" height="30" alt="C sharp" />&nbsp;
+  <img src="assets/tech/powershell.png" height="30" alt="PowerShell" />&nbsp;
+  <img src="assets/tech/sql.png" height="30" alt="SQL" />&nbsp;
+  <img src="assets/tech/gml.png" height="30" alt="GameMaker Language" />&nbsp;
+  <img src="assets/tech/dart.png" height="30" alt="Dart" />
 </p>
 </details>
 
@@ -53,12 +53,12 @@
 <summary><strong>Backend and Data</strong></summary>
 <br />
 <p>
-  <img src="assets/tech/rest-apis.png" height="44" alt="REST APIs" />
-  <img src="assets/tech/django-rest.png" height="44" alt="Django REST" />
-  <img src="assets/tech/nodejs.png" height="44" alt="Node.js" />
-  <img src="assets/tech/postgresql.png" height="44" alt="PostgreSQL" />
-  <img src="assets/tech/sqlite.png" height="44" alt="SQLite" />
-  <img src="assets/tech/redis-streams.png" height="44" alt="Redis Streams" />
+  <img src="assets/tech/rest-apis.png" height="30" alt="REST APIs" />&nbsp;
+  <img src="assets/tech/django-rest.png" height="30" alt="Django REST" />&nbsp;
+  <img src="assets/tech/nodejs.png" height="30" alt="Node.js" />&nbsp;
+  <img src="assets/tech/postgresql.png" height="30" alt="PostgreSQL" />&nbsp;
+  <img src="assets/tech/sqlite.png" height="30" alt="SQLite" />&nbsp;
+  <img src="assets/tech/redis-streams.png" height="30" alt="Redis Streams" />
 </p>
 </details>
 
@@ -66,13 +66,13 @@
 <summary><strong>Desktop and Web</strong></summary>
 <br />
 <p>
-  <img src="assets/tech/tauri-v2.png" height="44" alt="Tauri v2" />
-  <img src="assets/tech/electron.png" height="44" alt="Electron" />
-  <img src="assets/tech/gamemaker.png" height="44" alt="GameMaker" />
-  <img src="assets/tech/react.png" height="44" alt="React" />
-  <img src="assets/tech/vue-3.png" height="44" alt="Vue 3" />
-  <img src="assets/tech/flutter.png" height="44" alt="Flutter" />
-  <img src="assets/tech/vite.png" height="44" alt="Vite" />
+  <img src="assets/tech/tauri-v2.png" height="30" alt="Tauri v2" />&nbsp;
+  <img src="assets/tech/electron.png" height="30" alt="Electron" />&nbsp;
+  <img src="assets/tech/gamemaker.png" height="30" alt="GameMaker" />&nbsp;
+  <img src="assets/tech/react.png" height="30" alt="React" />&nbsp;
+  <img src="assets/tech/vue-3.png" height="30" alt="Vue 3" />&nbsp;
+  <img src="assets/tech/flutter.png" height="30" alt="Flutter" />&nbsp;
+  <img src="assets/tech/vite.png" height="30" alt="Vite" />
 </p>
 </details>
 
@@ -80,15 +80,15 @@
 <summary><strong>Platform</strong></summary>
 <br />
 <p>
-  <img src="assets/tech/git.png" height="44" alt="Git" />
-  <img src="assets/tech/docker.png" height="44" alt="Docker" />
-  <img src="assets/tech/kubernetes.png" height="44" alt="Kubernetes" />
-  <img src="assets/tech/kustomize.png" height="44" alt="Kustomize" />
-  <img src="assets/tech/prometheus.png" height="44" alt="Prometheus" />
-  <img src="assets/tech/github-actions.png" height="44" alt="GitHub Actions" />
-  <img src="assets/tech/release-automation.png" height="44" alt="Release automation" />
-  <img src="assets/tech/arduino-esp32.png" height="44" alt="Arduino and ESP32" />
-  <img src="assets/tech/elixir-otp.png" height="44" alt="Elixir and OTP" />
+  <img src="assets/tech/git.png" height="30" alt="Git" />&nbsp;
+  <img src="assets/tech/docker.png" height="30" alt="Docker" />&nbsp;
+  <img src="assets/tech/kubernetes.png" height="30" alt="Kubernetes" />&nbsp;
+  <img src="assets/tech/kustomize.png" height="30" alt="Kustomize" />&nbsp;
+  <img src="assets/tech/prometheus.png" height="30" alt="Prometheus" />&nbsp;
+  <img src="assets/tech/github-actions.png" height="30" alt="GitHub Actions" />&nbsp;
+  <img src="assets/tech/release-automation.png" height="30" alt="Release automation" />&nbsp;
+  <img src="assets/tech/arduino-esp32.png" height="30" alt="Arduino and ESP32" />&nbsp;
+  <img src="assets/tech/elixir-otp.png" height="30" alt="Elixir and OTP" />
 </p>
 </details>
 
@@ -96,12 +96,12 @@
 <summary><strong>Quality</strong></summary>
 <br />
 <p>
-  <img src="assets/tech/pytest.png" height="44" alt="pytest" />
-  <img src="assets/tech/cargo-test.png" height="44" alt="cargo test" />
-  <img src="assets/tech/vitest.png" height="44" alt="Vitest" />
-  <img src="assets/tech/playwright.png" height="44" alt="Playwright" />
-  <img src="assets/tech/structured-logging.png" height="44" alt="Structured logging" />
-  <img src="assets/tech/reproducible-builds.png" height="44" alt="Reproducible builds" />
+  <img src="assets/tech/pytest.png" height="30" alt="pytest" />&nbsp;
+  <img src="assets/tech/cargo-test.png" height="30" alt="cargo test" />&nbsp;
+  <img src="assets/tech/vitest.png" height="30" alt="Vitest" />&nbsp;
+  <img src="assets/tech/playwright.png" height="30" alt="Playwright" />&nbsp;
+  <img src="assets/tech/structured-logging.png" height="30" alt="Structured logging" />&nbsp;
+  <img src="assets/tech/reproducible-builds.png" height="30" alt="Reproducible builds" />
 </p>
 </details>
 
