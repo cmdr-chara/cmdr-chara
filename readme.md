@@ -3,13 +3,13 @@
 
   <h1>Backend and Platform Developer</h1>
 
-  <p>Junior software developer building backend services, desktop tools, and local-first utilities.</p>
+  <p>Building cross-platform tools, local-first applications, and reliable release workflows.</p>
   <p>Italy | Open to remote junior roles</p>
 
   <p>
     <a href="#tech-stack">Tech Stack</a> |
-    <a href="#selected-projects">Projects</a> |
     <a href="#open-source">Open Source</a> |
+    <a href="#selected-projects">Projects</a> |
     <a href="#github-stats">Stats</a>
   </p>
 </div>
@@ -21,15 +21,11 @@
   <img src="assets/tech/go.png" height="34" alt="Go" />
 </p>
 
-<p align="center">
-  <sub>Facing Demons Chara sprite by Jude | Textbox rendered with <a href="https://www.demirramon.com/generators/undertale_text_box_generator">Demirramon's generator</a></sub>
-</p>
-
 ---
 
 ## Tech Stack
 
-<details open>
+<details>
 <summary><strong>Languages</strong></summary>
 <br />
 <p>
@@ -107,30 +103,39 @@
 
 ---
 
+## Open Source
+
+- **Active contributor** to [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara)
+- **unitaryHACK bounty** for [Quantinuum/guppylang #1801](https://github.com/Quantinuum/guppylang/pull/1801)
+- **Merged fixes** in [TestSprite CLI #118](https://github.com/TestSprite/testsprite-cli/pull/118) and [OpenCode #8240](https://github.com/anomalyco/opencode/pull/8240)
+- **In review** in [Fileverse dDocs #557](https://github.com/fileverse/fileverse-ddocs/pull/557) and [UndertaleModTool #2398](https://github.com/UnderminersTeam/UndertaleModTool/pull/2398)
+
+---
+
 ## Selected Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/deltamod"><strong>Deltamod Community</strong></a><br /><br />
-      Cross-platform GameMaker mod manager moving from Electron to Tauri v2.<br /><br />
+      Community-maintained GameMaker mod manager moving from Electron to Tauri v2, with transactional patching and verified releases.<br /><br />
       <code>Rust</code> <code>Tauri v2</code> <code>TypeScript</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/codex-toolkit"><strong>Codex Toolkit</strong></a><br /><br />
-      Reusable Codex skills, agents, installers, and offline validation.<br /><br />
+      Installable Codex skills and agents with cross-platform setup, offline validation, and smoke-tested workflows.<br /><br />
       <code>Python</code> <code>automation</code> <code>tooling</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/open-job-scout"><strong>OpenJobScout</strong></a><br /><br />
-      Local-first CLI for job discovery, ranking, and application tracking.<br /><br />
+      Local-first CLI that discovers, ranks, and tracks job applications while keeping scoring and data inspectable.<br /><br />
       <code>Python</code> <code>SQLite</code> <code>pytest</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/localeguard"><strong>LocaleGuard</strong></a><br /><br />
-      In-browser localization preflight with a live GitHub Pages demo.<br /><br />
+      Browser-only localization preflight that catches placeholder, markup, escape, and GameMaker control-marker errors before release.<br /><br />
       <code>TypeScript</code> <code>React</code> <code>Vitest</code>
     </td>
   </tr>
@@ -150,37 +155,32 @@
 
 ---
 
-## Open Source
-
-- **Active contributor** to [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara)
-- **unitaryHACK bounty** for [Quantinuum/guppylang #1801](https://github.com/Quantinuum/guppylang/pull/1801)
-- **Merged fixes** in [TestSprite CLI #118](https://github.com/TestSprite/testsprite-cli/pull/118) and [OpenCode #8240](https://github.com/anomalyco/opencode/pull/8240)
-- **In review** in [Fileverse dDocs #557](https://github.com/fileverse/fileverse-ddocs/pull/557) and [UndertaleModTool #2398](https://github.com/UnderminersTeam/UndertaleModTool/pull/2398)
-
----
-
 ## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/profile-stats.svg" alt="cmdr-chara GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=cmdr-chara&theme=github-dark-blue&hide_border=true&ring=FF3347&fire=FF3347&currStreakLabel=FF3347" alt="cmdr-chara GitHub contribution streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=cmdr-chara&hide_border=true&background=0D1117&stroke=2E343B&ring=FF3347&fire=FF3347&currStreakNum=FF3347&sideNums=FF3347&currStreakLabel=FF3347&sideLabels=77909C&dates=77909C" alt="cmdr-chara GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/profile-details.svg" alt="cmdr-chara contribution summary" />
-</p>
+<details>
+<summary><strong>Contribution snake</strong></summary>
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/github-contribution-grid-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</details>
 
 <details>
 <summary><strong>Outside code</strong></summary>
 <br />
 
 Game aesthetics, localization, worldbuilding, and Fractured Hope.
+
+Facing Demons Chara sprite by Jude. Textbox rendered with [Demirramon's generator](https://www.demirramon.com/generators/undertale_text_box_generator).
 
 </details>
 
