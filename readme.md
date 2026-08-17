@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/chara-wink-dialogue-red-green.gif" width="360" alt="Animated Undertale-style dialogue box: Backend and platform development; open source and AI data; still determined." />
+  <img src="assets/chara-wink-dialogue-red-green.gif" width="360" alt="Animated Undertale-style dialogue box: Full-stack and platform development; open source and AI data; still determined." />
 
   <p>
     <strong>cmdr-chara</strong><br />
-    backend · platform · developer tooling · Italy / CET
+    full-stack · platform · developer tooling · Italy / CET
   </p>
 
   <p>
@@ -22,11 +22,11 @@
 
 ## CHECK
 
-I'm a junior software developer with **3+ years of hands-on project work** across backend services, desktop applications, developer tooling, and local-first utilities. Most of my current work uses **Rust, TypeScript, Python, and Go**.
+I'm a junior full-stack and platform developer with **3+ years of hands-on project work** across APIs, web interfaces, backend services, desktop applications, developer tooling, and local-first utilities. Most of my current work uses **Rust, TypeScript, Python, and Go**.
 
 I care about the parts around the feature too: tests that catch real regressions, CI that proves the build, release artifacts that can be verified, and documentation that explains the awkward parts.
 
-> Based in Italy, EU citizen, and open to remote junior roles in backend, platform engineering, and developer tooling.
+> Based in Italy, EU citizen, and open to remote junior roles in full-stack, backend, platform engineering, and developer tooling.
 
 ## CURRENT SAVE
 
