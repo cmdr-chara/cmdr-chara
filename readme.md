@@ -108,7 +108,6 @@
 - **Active contributor** to [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara)
 - **unitaryHACK bounty** for [Quantinuum/guppylang #1801](https://github.com/Quantinuum/guppylang/pull/1801)
 - **Merged fixes** in [TestSprite CLI #118](https://github.com/TestSprite/testsprite-cli/pull/118) and [OpenCode #8240](https://github.com/anomalyco/opencode/pull/8240)
-- **In review** in [Fileverse dDocs #557](https://github.com/fileverse/fileverse-ddocs/pull/557) and [UndertaleModTool #2398](https://github.com/UnderminersTeam/UndertaleModTool/pull/2398)
 
 ---
 
