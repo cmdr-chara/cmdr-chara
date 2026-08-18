@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/chara-wink-dialogue-red-green.gif" width="420" alt="Animated Undertale-style dialogue box for cmdr-chara" />
 
-  <h1>Backend and Platform Developer</h1>
+  <h1>Full-Stack and Platform Developer</h1>
 
   <p>Building cross-platform tools, local-first applications, and reliable release workflows.</p>
   <p>Italy | Open to remote junior roles</p>
