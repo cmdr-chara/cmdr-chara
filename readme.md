@@ -4,7 +4,7 @@
   <h1>Full-Stack and Platform Developer</h1>
 
   <p>Building cross-platform tools, local-first applications, and reliable release workflows.</p>
-  <p>Italy | Open to remote junior roles</p>
+  <p>Italy | Open to remote roles</p>
 
   <p>
     <a href="#tech-stack">Tech Stack</a> |
