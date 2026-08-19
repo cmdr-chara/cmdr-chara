@@ -4,7 +4,6 @@
   <h1>Full-Stack &amp; Platform Developer</h1>
 
   <p>Building cross-platform applications, developer tooling, local-first software, and reliable release systems.</p>
-  <p><strong>Rust · TypeScript · C#/.NET · Python · Go</strong></p>
   <p>Italy · Open to remote roles</p>
 
   <p>
