@@ -29,7 +29,7 @@
       <a href="https://github.com/cmdr-chara/deltamod"><strong>Deltamod Community</strong></a><br />
       Community-built mod manager for DELTARUNE, UNDERTALE, and other GameMaker games, with local imports, multiple installations and profiles, cross-platform releases, and checksum verification.
       <br /><br />
-      <code>Rust</code> <code>Tauri</code> <code>TypeScript</code> <code>Release Engineering</code>
+      <code>Rust</code> <code>Tauri v2</code> <code>TypeScript</code> <code>Release Engineering</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/UndertaleModTool/tree/winui-preview">
@@ -129,7 +129,7 @@ C++, JavaScript, Elixir/OTP, PowerShell, SQL, Dart, GameMaker Language, Arduino 
 
 ## More Work
 
-<details open>
+<details>
 <summary><strong>Projects and experiments</strong></summary>
 <br />
 
