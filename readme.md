@@ -32,7 +32,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/UndertaleModTool/tree/winui-preview">
-        <img src="https://raw.githubusercontent.com/cmdr-chara/UndertaleModTool/winui-preview/UndertaleModTool.WinUI/Assets/Wide310x150Logo.scale-200.png" width="100%" alt="UndertaleModTool WinUI 3 preview" />
+        <img src="https://raw.githubusercontent.com/cmdr-chara/UndertaleModTool/winui-preview/images/readme/undertalemodtool-resource-tour.gif" width="100%" alt="UndertaleModTool WinUI 3 resource browsing tour" />
       </a>
       <br /><br />
       <a href="https://github.com/cmdr-chara/UndertaleModTool/tree/winui-preview"><strong>UndertaleModTool — WinUI 3 Preview</strong></a><br />
