@@ -1,9 +1,14 @@
 <div align="center">
-  <img src="assets/chara-wink-dialogue-red-green.gif" width="360" alt="Animated Undertale-style dialogue box: Full-stack and platform development; open source and AI data; still determined." />
+  <h1>Full-stack &amp; Platform Developer</h1>
+
+  <p><strong>Go · Rust · Python · TypeScript · FastAPI · Kubernetes</strong></p>
+  <p>Italy · EU citizen · Open to remote roles</p>
+
+  <img src="assets/chara-wink-dialogue-red-green.gif" width="320" alt="Animated Undertale-style dialogue box about full-stack and platform development." />
 
   <p>
     <strong>cmdr-chara</strong><br />
-    full-stack · platform · developer tooling · Italy / CET
+    APIs · desktop tooling · local-first software · release engineering
   </p>
 
   <p>
@@ -22,13 +27,13 @@
 
 ## CHECK
 
-I'm a junior full-stack and platform developer with **3+ years of hands-on project work** across APIs, web interfaces, backend services, desktop applications, developer tooling, and local-first utilities. Most of my current work uses **Rust, TypeScript, Python, and Go**.
+I'm a full-stack and platform developer with **3+ years of hands-on project work** across APIs, web interfaces, backend services, desktop applications, developer tooling, and local-first utilities. Most of my current work uses **Rust, TypeScript, Python, Go, and FastAPI**, with Docker, Kubernetes, and AWS fundamentals around delivery.
 
 I care about the parts around the feature too: tests that catch real regressions, CI that proves the build, release artifacts that can be verified, and documentation that explains the awkward parts.
 
 > Based in Italy, EU citizen, and open to remote junior roles in full-stack, backend, platform engineering, and developer tooling.
 
-## CURRENT SAVE
+## CURRENT WORK
 
 - Preparing the stable [**Deltamod Community 2.0.3**](https://github.com/cmdr-chara/deltamod) release after its public beta line: Tauri v2 packaging, cross-platform patch tooling, checksums, dependency verification, and Sigstore artifact attestations.
 - Evolving [**UTDR SoupGen Enhanced**](https://github.com/cmdr-chara/UTDR-SoupGen/releases/tag/v1.6.9) from its storage, ZIP-import, GIF-export, and build hardening into a quieter [**Calm UI redesign**](https://github.com/cmdr-chara/UTDR-SoupGen/tree/calm-ui-redesign).
@@ -39,30 +44,30 @@ I care about the parts around the feature too: tests that catch real regressions
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/cmdr-chara/deltamod"><strong>Deltamod Community</strong></a><br />
-      <sub>community-maintained fork</sub><br /><br />
-      Cross-platform GameMaker mod manager moving from Electron to Tauri v2, with transactional patching, verified native tools, automated tests, release checksums, and provenance attestations.<br /><br />
-      <code>Rust</code> <code>Tauri v2</code> <code>TypeScript</code> <code>Vitest</code> <code>Playwright</code>
+      <a href="https://github.com/cmdr-chara/open-job-scout"><strong>OpenJobScout</strong></a> · <a href="https://github.com/cmdr-chara/open-job-scout/releases/tag/v0.1.0">v0.1.0</a><br />
+      <sub>original project</sub><br /><br />
+      Local-first CLI for discovering, verifying, ranking, and tracking jobs. Its scoring stays inspectable and application data remains in SQLite on the user's machine.<br /><br />
+      <code>Python</code> <code>Rust</code> <code>SQLite</code> <code>CLI</code> <code>pytest</code>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cmdr-chara/LeaveFlow"><strong>LeaveFlow</strong></a><br />
+      <sub>full-stack platform project</sub><br /><br />
+      Role-aware leave workflows with Django REST, Vue, PostgreSQL, Redis Streams, an Elixir/OTP worker, authenticated SSE, Docker, and Kubernetes/Kustomize.<br /><br />
+      <code>Python</code> <code>Vue</code> <code>Elixir</code> <code>Redis</code> <code>Kubernetes</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/codex-toolkit"><strong>Codex Toolkit</strong></a> · <a href="https://github.com/cmdr-chara/codex-toolkit/releases/tag/v0.4.0">v0.4.0</a><br />
       <sub>original project</sub><br /><br />
       Fifteen installable Codex skills, six optional agents, cross-platform setup helpers, offline validation, and smoke tests for real repository work.<br /><br />
       <code>Python</code> <code>agents</code> <code>automation</code> <code>validation</code> <code>tooling</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/cmdr-chara/open-job-scout"><strong>OpenJobScout</strong></a> · <a href="https://github.com/cmdr-chara/open-job-scout/releases/tag/v0.1.0">v0.1.0</a><br />
-      <sub>original project</sub><br /><br />
-      Local-first CLI for discovering, verifying, ranking, and tracking jobs. Its scoring stays inspectable and application data remains in SQLite on the user's machine.<br /><br />
-      <code>Python</code> <code>SQLite</code> <code>CLI</code> <code>pytest</code> <code>CI</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://cmdr-chara.github.io/localeguard/"><strong>LocaleGuard</strong></a> · <a href="https://github.com/cmdr-chara/localeguard">source</a><br />
-      <sub>original project · live demo</sub><br /><br />
-      In-browser JSON localization preflight for broken placeholders, markup, escapes, structure, and GameMaker control markers. Files never leave the browser.<br /><br />
-      <code>TypeScript</code> <code>React</code> <code>Vite</code> <code>Vitest</code> <code>GitHub Pages</code>
+      <a href="https://github.com/cmdr-chara/deltamod"><strong>Deltamod Community</strong></a><br />
+      <sub>community-maintained fork</sub><br /><br />
+      Cross-platform GameMaker mod manager moving from Electron to Tauri v2, with transactional patching, verified native tools, automated tests, release checksums, and provenance attestations.<br /><br />
+      <code>Rust</code> <code>Tauri v2</code> <code>TypeScript</code> <code>Vitest</code> <code>Playwright</code>
     </td>
   </tr>
 </table>
@@ -71,7 +76,7 @@ I care about the parts around the feature too: tests that catch real regressions
 <summary><strong>More systems work</strong></summary>
 
 - [**UTDR SoupGen Enhanced**](https://github.com/cmdr-chara/UTDR-SoupGen): maintained GameMaker fork with journaled recovery, defensive ZIP preflight, transactional imports, bounded GIF export, static validation, and automated Windows builds.
-- [**LeaveFlow**](https://github.com/cmdr-chara/LeaveFlow): role-aware leave workflows, Django REST, Vue, PostgreSQL, Redis Streams, an Elixir/OTP worker, authenticated SSE, Docker, and Kubernetes/Kustomize.
+- [**LocaleGuard**](https://cmdr-chara.github.io/localeguard/) · [source](https://github.com/cmdr-chara/localeguard): browser-only JSON localization QA with a live demo; files never leave the browser.
 - [**PulseDock**](https://github.com/cmdr-chara/PulseDock): concurrent Go service monitor with bounded workers, connection reuse, structured logs, Prometheus metrics, rolling uptime and p95 reporting, and graceful shutdown.
 - [**UTDR Dataset Toolkit**](https://huggingface.co/datasets/cmdr-chara/utdr-dataset-toolkit): public documentation and synthetic samples for a private SFT/RAG data pipeline, including provenance boundaries, split-leakage controls, and sealed evaluation cases.
 - [**Deltarune Italian Pack**](https://github.com/cmdr-chara/DeltaruneItalianPack): maintained Italian localization pack with release automation and reproducible distribution workflows.
@@ -81,11 +86,11 @@ I care about the parts around the feature too: tests that catch real regressions
 
 ## QUEST LOG
 
-**15 merged upstream pull requests across four public projects**, plus current contributions in review.
+**47 merged upstream pull requests in Synara**, plus merged contributions to three other public projects and two current contributions in review.
 
 | Status | Upstream contribution | Result |
 | :---: | --- | --- |
-| `12 MERGED` | [`Emanuele-web04/synara`](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara+is%3Amerged) | Improved Windows PTY startup, updater and provider recovery, live tool activity, queue semantics, thread-state handling, and regression coverage across twelve upstream PRs. |
+| `47 MERGED` | [`Emanuele-web04/synara`](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara+is%3Amerged) | Improved provider integrations, Windows and WSL execution, updater recovery, live tool activity, queue semantics, thread-state handling, diagnostics, and regression coverage across 47 upstream PRs. |
 | `BOUNTY` | [unitaryHACK 2026 · `Quantinuum/guppylang` #1801](https://github.com/Quantinuum/guppylang/pull/1801) | Integrated `scipy.optimize.minimize` into the QAOA MaxCut example, passed review and 11 automated checks, and earned the Guppy/HUGR/TKET bounty. |
 | `MERGED` | [`TestSprite/testsprite-cli` #118](https://github.com/TestSprite/testsprite-cli/pull/118) | Preserved buffered input across sequential CLI prompts and added regression coverage for piped input, EOF, CRLF, and secret prompts. |
 | `MERGED` | [`anomalyco/opencode` #8240](https://github.com/anomalyco/opencode/pull/8240) | Added Undertale and Deltarune themes to the open-source coding agent. |
@@ -97,9 +102,9 @@ I care about the parts around the feature too: tests that catch real regressions
 | Area | Tools I use |
 | --- | --- |
 | Languages | `Rust` · `TypeScript` · `Python` · `Go` · `SQL` · `GameMaker Language` · `Dart` |
-| Backend and data | `REST APIs` · `Django REST` · `Node.js` · `PostgreSQL` · `SQLite` · `Redis Streams` |
+| Backend and data | `REST APIs` · `FastAPI` · `Django REST` · `Node.js` · `PostgreSQL` · `SQLite` · `Redis Streams` |
 | Desktop and web | `Tauri v2` · `Electron` · `GameMaker` · `React` · `Vue 3` · `Flutter` · `Vite` |
-| Platform | `Docker` · `Kubernetes` · `Kustomize` · `Prometheus` · `GitHub Actions` · release automation |
+| Platform | `Docker` · `Kubernetes` · `Kustomize` · `AWS` · `Prometheus` · `GitHub Actions` · release automation |
 | Quality | `pytest` · `cargo test` · `Vitest` · `Playwright` · structured logging · reproducible builds |
 
 <details>
