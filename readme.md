@@ -7,8 +7,9 @@
   <p>Italy · Open to remote roles</p>
 
   <p>
-    <a href="#featured-engineering">Featured Work</a> ·
+    <a href="#featured-work">Featured Work</a> ·
     <a href="#open-source">Open Source</a> ·
+    <a href="#current-work">Current Work</a> ·
     <a href="#capabilities">Capabilities</a> ·
     <a href="#more-work">More Work</a>
   </p>
@@ -16,7 +17,7 @@
 
 ---
 
-## Featured Engineering
+## Featured work
 
 <table>
   <tr>
@@ -61,30 +62,19 @@
   </tr>
 </table>
 
-### Selected Engineering
+## Current work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cmdr-chara/codex-toolkit"><strong>Codex Toolkit</strong></a><br /><br />
-      Automatic workflow routing for <strong>20 Codex skills and 6 agents</strong>, covering repository intelligence, bug finding, implementation, completion gates, multi-agent coordination, and release verification.
-      <br /><br />
-      <code>Python</code> <code>Agents</code> <code>Validation</code> <code>CI</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cmdr-chara/open-job-scout"><strong>OpenJobScout</strong></a><br /><br />
-      Local-first job discovery, verification, ranking, and application tracking with transparent scoring, SQLite persistence, portable reports, and Python/Rust runtimes.
-      <br /><br />
-      <code>Rust</code> <code>Python</code> <code>SQLite</code> <code>CLI</code>
-    </td>
-  </tr>
-</table>
+| Status | Project | What I am working on |
+| --- | --- | --- |
+| Active | [Codex Toolkit](https://github.com/cmdr-chara/codex-toolkit) · [OpenJobScout](https://github.com/cmdr-chara/open-job-scout) | Workflow tooling and a local-first Python/Rust job tracker with SQLite, native ATS sources, optional Firecrawl discovery, verification, ranking, and review flows. |
+| Active | [Deltamod Community](https://github.com/cmdr-chara/deltamod) | Continuing the Tauri v2 migration of a cross-platform mod manager, with native hashing, archive validation, transactional patching, and release checks. |
+| Maintained | [UTDR SoupGen Enhanced](https://github.com/cmdr-chara/UTDR-SoupGen/tree/codex/enhanced-soupgen) | Improving a GameMaker dialogue tool with safer ZIP imports, recovery, bounded GIF export, and reproducible Windows builds. |
 
 ---
 
 ## Open Source
 
-- **Synara:** merged provider, reliability, CLI, diagnostics, and documentation work — including [DeepSeek Harness support #723](https://github.com/Emanuele-web04/synara/pull/723), [streamed assistant-text correctness #692](https://github.com/Emanuele-web04/synara/pull/692), [credential redaction #706](https://github.com/Emanuele-web04/synara/pull/706), and [server status CLI #704](https://github.com/Emanuele-web04/synara/pull/704).
+- **Synara:** active contributor with **47 merged upstream PRs**, spanning provider integrations, reliability, CLI, diagnostics, and documentation. See the [merged contribution list](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara+is%3Amerged), including [DeepSeek Harness support #723](https://github.com/Emanuele-web04/synara/pull/723), [streamed assistant-text correctness #692](https://github.com/Emanuele-web04/synara/pull/692), [credential redaction #706](https://github.com/Emanuele-web04/synara/pull/706), and [server status CLI #704](https://github.com/Emanuele-web04/synara/pull/704).
 - **Quantinuum / Guppy:** merged [unitaryHACK contribution #1801](https://github.com/Quantinuum/guppylang/pull/1801), replacing random QAOA parameter sampling with SciPy optimization in the example workflow.
 - **TestSprite CLI:** merged [buffered prompt-input fix #118](https://github.com/TestSprite/testsprite-cli/pull/118), preserving queued answers correctly across sequential prompts and line-ending variants.
 
@@ -134,7 +124,6 @@ C++, JavaScript, Elixir/OTP, PowerShell, SQL, Dart, GameMaker Language, Arduino 
 
 - [LocaleGuard](https://github.com/cmdr-chara/localeguard) — browser-only JSON localization QA for structural drift, placeholders, markup, escapes, and GameMaker control markers.
 - [Smart Building Controller](https://github.com/cmdr-chara/smart-building-controller) — Flutter app, authenticated PHP backend, ESP32 bridge, Arduino modules, and physical sensors/actuators.
-- [UTDR SoupGen Enhanced](https://github.com/cmdr-chara/UTDR-SoupGen) — GameMaker textbox tooling with safer imports, recovery, GIF export, and Windows builds.
 - [Deltarune Italian Pack](https://github.com/cmdr-chara/DeltaruneItalianPack) — maintained localization pack with reproducible release automation.
 - [PulseDock](https://github.com/cmdr-chara/PulseDock) — concurrent Go service monitor with Prometheus metrics and structured logs.
 - [LeaveFlow](https://github.com/cmdr-chara/LeaveFlow) — Django, Vue, PostgreSQL, Redis Streams, Elixir/OTP, Docker, and Kubernetes.
