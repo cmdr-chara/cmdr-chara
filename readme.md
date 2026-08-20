@@ -146,7 +146,7 @@ C++, JavaScript, Elixir/OTP, PowerShell, SQL, Dart, GameMaker Language, Arduino 
 ## Activity
 
 <p align="center">
-  <img width="78%" src="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/profile-stats.svg" alt="cmdr-chara GitHub statistics" />
+  <img width="58%" src="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/profile-stats.svg" alt="cmdr-chara GitHub statistics" />
 </p>
 
 <details>
