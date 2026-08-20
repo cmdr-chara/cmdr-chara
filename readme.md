@@ -36,7 +36,7 @@
       </a>
       <br /><br />
       <a href="https://github.com/cmdr-chara/UndertaleModTool/tree/winui-preview"><strong>UndertaleModTool — WinUI 3 Preview</strong></a><br />
-      Windows-native modernization fork of UndertaleModTool with redesigned resource browsing, richer sprite and texture inspection, embedded audio playback, preview caching, and a WinUI 3 shell over the established GameMaker tooling stack.
+      Windows-native modernization fork of UndertaleModTool with redesigned resource browsing, richer sprite and texture inspection, embedded audio playback, preview caching, and a WinUI 3 shell over the established GameMaker tooling stack. The branch README now includes compact tours of the resource, code, and WinUI surfaces.
       <br /><br />
       <code>C#</code> <code>.NET</code> <code>WinUI 3</code> <code>Windows App SDK</code>
     </td>
