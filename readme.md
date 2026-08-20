@@ -37,6 +37,7 @@ I care about the parts around the feature too: tests that catch real regressions
 
 - Preparing the stable [**Deltamod Community 2.0.3**](https://github.com/cmdr-chara/deltamod) release after its public beta line: Tauri v2 packaging, cross-platform patch tooling, checksums, dependency verification, and Sigstore artifact attestations.
 - Evolving [**UTDR SoupGen Enhanced**](https://github.com/cmdr-chara/UTDR-SoupGen/releases/tag/v1.6.9) from its storage, ZIP-import, GIF-export, and build hardening into a quieter [**Calm UI redesign**](https://github.com/cmdr-chara/UTDR-SoupGen/tree/calm-ui-redesign).
+- Building an [**UndertaleModTool WinUI Preview**](https://github.com/cmdr-chara/UndertaleModTool/tree/winui-preview) fork with a native WinUI 3 shell for GameMaker data inspection: resource previews, embedded textures and audio, code and shader views, and export workflows.
 - Contributing an [**Ultra Dark theme**](https://github.com/fileverse/fileverse-ddocs/pull/557) to Fileverse dDocs and a [**sound-export throughput improvement**](https://github.com/UnderminersTeam/UndertaleModTool/pull/2398) to UndertaleModTool; both are currently in review.
 
 ## SAVE POINTS
