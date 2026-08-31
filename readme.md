@@ -1,10 +1,10 @@
 <div align="center">
   <img src="assets/chara-wink-dialogue-red-green.gif" width="420" alt="Animated Undertale-style dialogue box for cmdr-chara" />
 
-  <h1>Full-Stack &amp; Platform Developer</h1>
+  <h1>Open-Source Software Developer</h1>
 
-  <p>Building cross-platform applications, developer tooling, local-first software, and reliable release systems.</p>
-  <p>Italy · Open to remote roles</p>
+  <p>Building desktop and full-stack applications, developer tooling, and reliable release systems.</p>
+  <p>Open to software engineering roles · public work under <strong>cmdr-chara</strong></p>
 
   <p>
     <a href="#featured-engineering">Featured Work</a> ·
@@ -26,7 +26,7 @@
       </a>
       <br /><br />
       <a href="https://github.com/cmdr-chara/deltamod"><strong>Deltamod Community</strong></a><br />
-      Community-built mod manager for DELTARUNE, UNDERTALE, and other GameMaker games, with local imports, multiple installations and profiles, cross-platform releases, and checksum verification.
+      A substantially evolved community fork for DELTARUNE, UNDERTALE, and other GameMaker games. Work spans isolated profiles, staged migration, transactional patching, native integrations, security hardening, checksum verification, and cross-platform releases.
       <br /><br />
       <code>Rust</code> <code>Tauri v2</code> <code>TypeScript</code> <code>Release Engineering</code>
     </td>
@@ -52,7 +52,7 @@
     </td>
     <td width="56%" valign="middle">
       <a href="https://github.com/Emanuele-web04/synara"><strong>Synara — Upstream Contributor</strong></a><br /><br />
-      Active contributor to a local-first desktop workspace for coding agents. Merged work includes a first-class DeepSeek Harness provider, streaming correctness fixes, credential-redaction hardening, and a server-status CLI surface.
+      Contributor with <strong>48 merged pull requests</strong> to a local-first desktop workspace for coding agents. Work includes a first-class DeepSeek Harness provider, streaming correctness fixes, credential-redaction hardening, and a server-status CLI surface.
       <br /><br />
       <code>TypeScript</code> <code>ACP</code> <code>Provider Integration</code> <code>Reliability</code>
       <br /><br />
@@ -83,6 +83,8 @@
 ---
 
 ## Open Source
+
+**51 merged pull requests outside personal repositories**, including 48 in Synara and accepted work in Guppylang, TestSprite CLI, and OpenCode.
 
 - **Synara:** merged provider, reliability, CLI, diagnostics, and documentation work — including [DeepSeek Harness support #723](https://github.com/Emanuele-web04/synara/pull/723), [streamed assistant-text correctness #692](https://github.com/Emanuele-web04/synara/pull/692), [credential redaction #706](https://github.com/Emanuele-web04/synara/pull/706), and [server status CLI #704](https://github.com/Emanuele-web04/synara/pull/704).
 - **Quantinuum / Guppy:** merged [unitaryHACK contribution #1801](https://github.com/Quantinuum/guppylang/pull/1801), replacing random QAOA parameter sampling with SciPy optimization in the example workflow.
