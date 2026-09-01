@@ -52,7 +52,7 @@
     </td>
     <td width="56%" valign="middle">
       <a href="https://github.com/Emanuele-web04/synara"><strong>Synara — Upstream Contributor</strong></a><br /><br />
-      Contributor with <strong>48 merged pull requests</strong> to a local-first desktop workspace for coding agents. Work includes a first-class DeepSeek Harness provider, streaming correctness fixes, credential-redaction hardening, and a server-status CLI surface.
+      Contributor with <strong>72 merged pull requests</strong> to a local-first desktop workspace for coding agents. Work spans provider integrations, server and web reliability, security hardening, concurrency, state migrations, browser behavior, and focused regression coverage.
       <br /><br />
       <code>TypeScript</code> <code>ACP</code> <code>Provider Integration</code> <code>Reliability</code>
       <br /><br />
@@ -67,15 +67,15 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/cmdr-chara/codex-toolkit"><strong>Codex Toolkit</strong></a><br /><br />
-      Automatic workflow routing for <strong>20 Codex skills and 6 agents</strong>, covering repository intelligence, bug finding, implementation, completion gates, multi-agent coordination, and release verification.
+      Automatic workflow routing for <strong>21 Codex skills and 6 agents</strong>, covering repository intelligence, bug finding, implementation, completion gates, multi-agent coordination, and release verification.
       <br /><br />
       <code>Python</code> <code>Agents</code> <code>Validation</code> <code>CI</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/cmdr-chara/open-job-scout"><strong>OpenJobScout</strong></a><br /><br />
-      Local-first job discovery, verification, ranking, and application tracking with transparent scoring, SQLite persistence, portable reports, and Python/Rust runtimes.
+      <a href="https://github.com/cmdr-chara/LeaveFlow"><strong>LeaveFlow</strong></a><br /><br />
+      Multi-service leave management product with role-based access, a Django REST API, PostgreSQL, Vue and TypeScript, Redis Streams, authenticated SSE, Docker Compose, Kubernetes manifests, health checks, and automated tests.
       <br /><br />
-      <code>Rust</code> <code>Python</code> <code>SQLite</code> <code>CLI</code>
+      <code>Python</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Docker</code> <code>Kubernetes</code>
     </td>
   </tr>
 </table>
@@ -84,9 +84,9 @@
 
 ## Open Source
 
-**51 merged pull requests outside personal repositories**, including 48 in Synara and accepted work in Guppylang, TestSprite CLI, and OpenCode.
+**75 merged pull requests outside personal repositories**, including 72 in Synara and accepted work in Guppylang, TestSprite CLI, and OpenCode.
 
-- **Synara:** merged provider, reliability, CLI, diagnostics, and documentation work — including [DeepSeek Harness support #723](https://github.com/Emanuele-web04/synara/pull/723), [streamed assistant-text correctness #692](https://github.com/Emanuele-web04/synara/pull/692), [credential redaction #706](https://github.com/Emanuele-web04/synara/pull/706), and [server status CLI #704](https://github.com/Emanuele-web04/synara/pull/704).
+- **Synara:** merged provider, backend reliability, frontend state, security, CLI, diagnostics, and documentation work — including [DeepSeek Harness support #723](https://github.com/Emanuele-web04/synara/pull/723), [concurrent credential-write safety #886](https://github.com/Emanuele-web04/synara/pull/886), [HTTP Retry-After validation #885](https://github.com/Emanuele-web04/synara/pull/885), and [cross-window storage synchronization #890](https://github.com/Emanuele-web04/synara/pull/890).
 - **Quantinuum / Guppy:** merged [unitaryHACK contribution #1801](https://github.com/Quantinuum/guppylang/pull/1801), replacing random QAOA parameter sampling with SciPy optimization in the example workflow.
 - **TestSprite CLI:** merged [buffered prompt-input fix #118](https://github.com/TestSprite/testsprite-cli/pull/118), preserving queued answers correctly across sequential prompts and line-ending variants.
 
@@ -98,6 +98,14 @@
 - Ongoing Synara work spans ACP/provider integrations, Windows and WSL execution, diagnostics, reliability, and architecture.
 
 </details>
+
+---
+
+## Engineering Workflow
+
+I use coding agents as part of a controlled engineering loop: inspect the existing architecture, define a bounded change, review the generated diff, add focused regression coverage, and run the repository's lint, type, test, build, and CI gates. Agent output is treated as a draft until the evidence supports it.
+
+Recent Synara contributions apply this workflow to production-facing concerns such as concurrency, HTTP protocol handling, security boundaries, durable state migrations, streaming correctness, and cross-platform behavior.
 
 ---
 
@@ -114,7 +122,7 @@
 | Area | Tools and technologies |
 | --- | --- |
 | **Desktop & cross-platform** | Tauri v2, WinUI 3 / .NET, Electron, Flutter |
-| **Web & backend** | TypeScript, React, Vue, Vite, Node.js, Django REST, PHP |
+| **Web & backend** | TypeScript, React, Vue, Vite, Node.js, Django REST, REST API design, PHP |
 | **Data & platform** | SQLite, PostgreSQL, Redis Streams, Docker, Kubernetes, Prometheus, GitHub Actions |
 | **Quality & delivery** | cargo test, pytest, Vitest, Playwright, structured logging, reproducible builds, release automation |
 
@@ -134,12 +142,12 @@ C++, JavaScript, Elixir/OTP, PowerShell, SQL, Dart, GameMaker Language, Arduino 
 <summary><strong>Projects and experiments</strong></summary>
 <br />
 
+- [OpenJobScout](https://github.com/cmdr-chara/open-job-scout) — local-first job discovery, verification, ranking, and application tracking with transparent scoring, SQLite persistence, and Python/Rust runtimes.
 - [LocaleGuard](https://github.com/cmdr-chara/localeguard) — browser-only JSON localization QA for structural drift, placeholders, markup, escapes, and GameMaker control markers.
 - [Smart Building Controller](https://github.com/cmdr-chara/smart-building-controller) — Flutter app, authenticated PHP backend, ESP32 bridge, Arduino modules, and physical sensors/actuators.
 - [UTDR SoupGen Enhanced](https://github.com/cmdr-chara/UTDR-SoupGen) — GameMaker textbox tooling with safer imports, recovery, GIF export, and Windows builds.
 - [Deltarune Italian Pack](https://github.com/cmdr-chara/DeltaruneItalianPack) — maintained localization pack with reproducible release automation.
 - [PulseDock](https://github.com/cmdr-chara/PulseDock) — concurrent Go service monitor with Prometheus metrics and structured logs.
-- [LeaveFlow](https://github.com/cmdr-chara/LeaveFlow) — Django, Vue, PostgreSQL, Redis Streams, Elixir/OTP, Docker, and Kubernetes.
 
 </details>
 
