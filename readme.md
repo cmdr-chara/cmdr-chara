@@ -84,8 +84,9 @@
 
 ## Open Source
 
-**75 merged pull requests outside personal repositories**, including 72 in Synara and accepted work in Guppylang, TestSprite CLI, and OpenCode.
+**76 merged pull requests outside personal repositories**, including 72 in Synara and accepted work in Zed, Guppylang, TestSprite CLI, and OpenCode.
 
+- **Zed:** merged [agent UI wrapping fix #63656](https://github.com/zed-industries/zed/pull/63656), keeping long `ask_user` options readable; current Rust work also includes tested PRs for [preview-tab navigation #63706](https://github.com/zed-industries/zed/pull/63706) and [Helix-style window operations #63698](https://github.com/zed-industries/zed/pull/63698).
 - **Synara:** merged provider, backend reliability, frontend state, security, CLI, diagnostics, and documentation work — including [DeepSeek Harness support #723](https://github.com/Emanuele-web04/synara/pull/723), [concurrent credential-write safety #886](https://github.com/Emanuele-web04/synara/pull/886), [HTTP Retry-After validation #885](https://github.com/Emanuele-web04/synara/pull/885), and [cross-window storage synchronization #890](https://github.com/Emanuele-web04/synara/pull/890).
 - **Quantinuum / Guppy:** merged [unitaryHACK contribution #1801](https://github.com/Quantinuum/guppylang/pull/1801), replacing random QAOA parameter sampling with SciPy optimization in the example workflow.
 - **TestSprite CLI:** merged [buffered prompt-input fix #118](https://github.com/TestSprite/testsprite-cli/pull/118), preserving queued answers correctly across sequential prompts and line-ending variants.
@@ -105,7 +106,7 @@
 
 I use coding agents as part of a controlled engineering loop: inspect the existing architecture, define a bounded change, review the generated diff, add focused regression coverage, and run the repository's lint, type, test, build, and CI gates. Agent output is treated as a draft until the evidence supports it.
 
-Recent Synara contributions apply this workflow to production-facing concerns such as concurrency, HTTP protocol handling, security boundaries, durable state migrations, streaming correctness, and cross-platform behavior.
+Recent Zed and Synara contributions apply this workflow to desktop UI behavior, navigation state, keymaps, concurrency, HTTP protocol handling, security boundaries, durable state migrations, streaming correctness, and cross-platform behavior.
 
 ---
 
