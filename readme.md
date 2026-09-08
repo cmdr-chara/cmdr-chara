@@ -1,197 +1,135 @@
 <div align="center">
-  <img src="assets/chara-wink-dialogue-red-green.gif" width="420" alt="Animated Undertale-style dialogue box for cmdr-chara" />
+  <img src="assets/chara-wink-dialogue-red-green.gif" width="420" alt="Chara in an animated Undertale-style dialogue box" />
 
-  <h1>Open-Source Software Developer</h1>
+  <h1>cmdr-chara · Chara</h1>
 
-  <p>Building desktop and full-stack applications, developer tooling, and reliable release systems.</p>
-  <p>cmdr-chara · [location removed] · Open to software engineering roles<br /><a href="mailto:249489759+cmdr-chara@users.noreply.github.com">249489759+cmdr-chara@users.noreply.github.com</a> · public work under <strong>cmdr-chara</strong></p>
+  <p><strong>Software developer · Desktop apps, developer tools, and open source</strong></p>
+  <p>I build tools for modding games, understanding networks, and working with coding agents.</p>
 
   <p>
-    <a href="#featured-engineering">Featured Work</a> ·
-    <a href="#open-source">Open Source</a> ·
-    <a href="#capabilities">Capabilities</a> ·
-    <a href="#more-work">More Work</a>
+    Open to software engineering roles<br />
+    <a href="mailto:249489759+cmdr-chara@users.noreply.github.com">249489759+cmdr-chara@users.noreply.github.com</a> · <strong>@cmdr-chara</strong>
+  </p>
+
+  <p>
+    <a href="#selected-projects">Projects</a> ·
+    <a href="#open-source">Upstream contributions</a> ·
+    <a href="#how-i-work">How I work</a> ·
+    <a href="#more-to-explore">More to explore</a>
   </p>
 </div>
 
----
+## Selected projects
 
-## Featured Engineering
+### [Deltamod Community](https://github.com/cmdr-chara/deltamod)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cmdr-chara/deltamod">
-        <img src="https://raw.githubusercontent.com/cmdr-chara/deltamod/DeltaMaster/art/readme/deltamod-app-tour.gif" width="100%" alt="Deltamod Community application tour" />
-      </a>
-      <br /><br />
-      <a href="https://github.com/cmdr-chara/deltamod"><strong>Deltamod Community</strong></a><br />
-      Community mod-manager fork for DELTARUNE, UNDERTALE, and other GameMaker games. I built isolated profiles, transactional install and recovery workflows, native filesystem safeguards, and cross-platform packaging.<br /><br />The Tauri build is an unsigned preview; stable Windows and macOS publication awaits signing and notarization.
-      <br /><br />
-      <code>Rust</code> <code>Tauri v2</code> <code>TypeScript</code> <code>Release Engineering</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cmdr-chara/UndertaleModTool/tree/winui-preview">
-        <img src="https://raw.githubusercontent.com/cmdr-chara/UndertaleModTool/winui-preview/images/readme/undertalemodtool-resource-tour.gif" width="100%" alt="UndertaleModTool WinUI 3 resource browsing tour" />
-      </a>
-      <br /><br />
-      <a href="https://github.com/cmdr-chara/UndertaleModTool/tree/winui-preview"><strong>UndertaleModTool — WinUI 3 Preview</strong></a><br />
-      Windows-native modernization fork of UndertaleModTool with redesigned resource browsing, richer sprite and texture inspection, embedded audio playback, preview caching, and a WinUI 3 shell over the established GameMaker tooling stack. An experimental preview with documented limitations and resource-browsing demos.
-      <br /><br />
-      <code>C#</code> <code>.NET</code> <code>WinUI 3</code> <code>Windows App SDK</code>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="44%" valign="middle">
-      <a href="https://github.com/Emanuele-web04/synara">
-        <img src="https://raw.githubusercontent.com/Emanuele-web04/synara/main/assets/prod/synara-hero.jpeg" width="100%" alt="Synara desktop workspace" />
-      </a>
-    </td>
-    <td width="56%" valign="middle">
-      <a href="https://github.com/Emanuele-web04/synara"><strong>Synara — Upstream Contributor</strong></a><br /><br />
-      Contributor with <strong>72 merged pull requests as of September 8, 2026</strong> to a local-first desktop workspace for coding agents. Work spans provider integrations, server and web reliability, security hardening, concurrency, state migrations, browser behavior, and focused regression coverage.
-      <br /><br />
-      <code>TypeScript</code> <code>ACP</code> <code>Provider Integration</code> <code>Reliability</code>
-      <br /><br />
-      <a href="https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara+is%3Amerged">View merged upstream pull requests →</a>
-    </td>
-  </tr>
-</table>
-
-### Rust Network Tooling
-
-[**speedtest-cli**](https://github.com/cmdr-chara/speedtest-cli) is a Rust terminal application for throughput, latency under load, DNS diagnostics, and connection history. I built a keyboard-driven dashboard, comparison workflows, eight-language localization, and plain-text, JSON, and CSV output for automation.
-
-The implementation includes cancellation and deadlines, concurrent storage safeguards, regression tests, and native release packages for Windows, Linux, and macOS. [Download a release](https://github.com/cmdr-chara/speedtest-cli/releases/latest) · [See the interface](https://github.com/cmdr-chara/speedtest-cli#see-it-in-action)
-
-### Selected Engineering
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cmdr-chara/codex-toolkit"><strong>Codex Toolkit</strong></a><br /><br />
-      Reusable skills and six specialist agents for repository analysis, debugging, implementation, and release verification. I built routing validation, installer and update checks, and safeguards that preserve user-authored instructions.
-      <br /><br />
-      <code>Python</code> <code>Agents</code> <code>Validation</code> <code>CI</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cmdr-chara/LeaveFlow"><strong>LeaveFlow</strong></a><br /><br />
-      Full-stack leave-management project with role-scoped requests, approval workflows, and audit logs. Built with Django REST, Vue/TypeScript, PostgreSQL, and an Elixir/OTP worker over Redis Streams for deduplicated processing and live SSE updates; includes container deployment and automated tests.
-      <br /><br />
-      <code>Python</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Docker</code> <code>Kubernetes</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## Open Source
-
-Selected merged contributions include **72 pull requests in Synara** and accepted work in Zed, Guppylang, TestSprite CLI, and OpenCode. Counts and the open PR statuses below were checked on **September 8, 2026**.
-
-- **Zed:** merged [agent UI wrapping fix #63656](https://github.com/zed-industries/zed/pull/63656), keeping long `ask_user` options readable; additional Rust PRs are **open for review**: [preview-tab navigation #63706](https://github.com/zed-industries/zed/pull/63706) and [Helix-style window operations #63698](https://github.com/zed-industries/zed/pull/63698).
-- **Synara:** merged provider, backend reliability, frontend state, security, CLI, diagnostics, and documentation work — including [DeepSeek Harness support #723](https://github.com/Emanuele-web04/synara/pull/723), [concurrent credential-write safety #886](https://github.com/Emanuele-web04/synara/pull/886), [HTTP Retry-After validation #885](https://github.com/Emanuele-web04/synara/pull/885), and [cross-window storage synchronization #890](https://github.com/Emanuele-web04/synara/pull/890).
-- **Quantinuum / Guppy:** merged [unitaryHACK contribution #1801](https://github.com/Quantinuum/guppylang/pull/1801), replacing random QAOA parameter sampling with SciPy optimization in the example workflow.
-- **TestSprite CLI:** merged [buffered prompt-input fix #118](https://github.com/TestSprite/testsprite-cli/pull/118), preserving queued answers correctly across sequential prompts and line-ending variants.
-
-<details>
-<summary><strong>More upstream work</strong></summary>
-<br />
-
-- [OpenCode #8240](https://github.com/anomalyco/opencode/pull/8240): merged Undertale and Deltarune built-in themes.
-- Ongoing Synara work spans ACP/provider integrations, Windows and WSL execution, diagnostics, reliability, and architecture.
-
-</details>
-
----
-
-## Engineering Workflow
-
-I use coding agents as part of a controlled engineering loop: inspect the existing architecture, define a bounded change, review the generated diff, add focused regression coverage, and run the repository's lint, type, test, build, and CI gates. Agent output is treated as a draft until the evidence supports it.
-
-Recent Zed and Synara contributions apply this workflow to desktop UI behavior, navigation state, keymaps, concurrency, HTTP protocol handling, security boundaries, durable state migrations, streaming correctness, and cross-platform behavior.
-
----
-
-## Capabilities
+A community mod-manager fork for DELTARUNE, UNDERTALE, and other supported GameMaker games. Isolated profiles, staged patching, and recovery paths keep mod setups manageable.
 
 <p align="center">
-  <img src="assets/tech/rust.png" height="34" alt="Rust" />&nbsp;&nbsp;
-  <img src="assets/tech/typescript.png" height="34" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="assets/tech/csharp.png" height="34" alt="C sharp" />&nbsp;&nbsp;
-  <img src="assets/tech/python.png" height="34" alt="Python" />&nbsp;&nbsp;
-  <img src="assets/tech/go.png" height="34" alt="Go" />
+  <a href="https://github.com/cmdr-chara/deltamod#see-it-in-action">
+    <img src="https://raw.githubusercontent.com/cmdr-chara/deltamod/DeltaMaster/art/readme/deltamod-app-tour.gif" width="820" alt="Deltamod browsing installed mods, game installations, and collections" />
+  </a>
 </p>
 
-| Area | Tools and technologies |
+`Rust` · `Tauri` · `TypeScript` · [Download](https://github.com/cmdr-chara/deltamod/releases/latest) · [Source](https://github.com/cmdr-chara/deltamod)
+
+*Windows and macOS packages are unsigned; macOS packages are not notarized.*
+
+### [speedtest-cli](https://github.com/cmdr-chara/speedtest-cli)
+
+A terminal network lab for throughput, latency under load, DNS, and connection history. A keyboard-driven dashboard, baseline comparisons, eight languages, and script-friendly output.
+
+<p align="center">
+  <a href="https://github.com/cmdr-chara/speedtest-cli#see-it-in-action">
+    <img src="https://raw.githubusercontent.com/cmdr-chara/speedtest-cli/determination/docs/images/readme/home.png" width="820" alt="speedtest-cli terminal dashboard; development UI with illustrative test data, not measured connection speeds" />
+  </a>
+</p>
+
+`Rust` · `TUI` · `JSON / CSV` · [Download](https://github.com/cmdr-chara/speedtest-cli/releases/latest) · [Source](https://github.com/cmdr-chara/speedtest-cli)
+
+*Development screenshot with illustrative data, not measured connection speeds. Published releases may differ.*
+
+### [Codex Toolkit](https://github.com/cmdr-chara/codex-toolkit)
+
+Reusable skills and specialist agents for repository investigation, debugging, implementation, and release verification. Includes automatic routing, validation, and release-pinned updates that preserve user-authored instructions.
+
+`Python` · `Node.js` · `Codex` · [Get started](https://github.com/cmdr-chara/codex-toolkit#install-once) · [Source](https://github.com/cmdr-chara/codex-toolkit)
+
+### [UndertaleModTool · WinUI preview](https://github.com/cmdr-chara/UndertaleModTool/tree/winui-preview)
+
+An experimental frontend fork with resource browsing, media inspection, and preview caching over the existing GameMaker tooling stack. Maintenance focuses on stability and compatibility—not replacing upstream.
+
+`C#` · `.NET` · `WinUI 3` · [See the preview](https://github.com/cmdr-chara/UndertaleModTool/tree/winui-preview#screenshots) · [Source](https://github.com/cmdr-chara/UndertaleModTool/tree/winui-preview)
+
+**Full-stack work:** [LeaveFlow](https://github.com/cmdr-chara/LeaveFlow) is a leave-management demo with role-scoped approvals and live notifications. Vue/TypeScript and Django REST sit alongside PostgreSQL, Redis Streams, and a supervised Elixir/OTP worker, with Docker and local Kubernetes deployment.
+
+## Open source
+
+I contribute upstream as well as maintaining my own projects and community forks. These are **merged contributions**, with links to the actual changes:
+
+| Project | Selected contributions |
 | --- | --- |
-| **Desktop & cross-platform** | Tauri v2, WinUI 3 / .NET, Electron, Flutter |
-| **Web & backend** | TypeScript, React, Vue, Vite, Node.js, Django REST, REST API design, PHP |
-| **Data & platform** | SQLite, PostgreSQL, Redis Streams, Docker, Kubernetes, Prometheus, GitHub Actions |
-| **Quality & delivery** | cargo test, pytest, Vitest, Playwright, structured logging, reproducible builds, release automation |
+| **[Zed](https://github.com/zed-industries/zed)** | [Unicode-aware skill validation](https://github.com/zed-industries/zed/pull/63766), [keyboard preview-tab behavior](https://github.com/zed-industries/zed/pull/63758), and [wrapping for long answer options](https://github.com/zed-industries/zed/pull/63656). |
+| **[Synara](https://github.com/Emanuele-web04/synara)** | [Concurrent credential-write safety](https://github.com/Emanuele-web04/synara/pull/886) and [cross-window settings synchronization](https://github.com/Emanuele-web04/synara/pull/890), alongside [broader provider and reliability work](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara+is%3Amerged). |
+| **[Guppy · Quantinuum](https://github.com/Quantinuum/guppylang)** | Replaced random parameter sampling with [SciPy optimization](https://github.com/Quantinuum/guppylang/pull/1801) in a QAOA example. |
+| **[TestSprite CLI](https://github.com/TestSprite/testsprite-cli)** | [Buffered input handling](https://github.com/TestSprite/testsprite-cli/pull/118) that preserves queued answers across sequential prompts. |
+| **[OpenCode](https://github.com/anomalyco/opencode)** | [Built-in Undertale and Deltarune themes](https://github.com/anomalyco/opencode/pull/8240). |
+
+[Browse merged upstream pull requests →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Acmdr-chara+-user%3Acmdr-chara&type=pullrequests)
+
+## How I work
+
+I use coding agents for implementation and investigation, then review the diff and validate changes with focused regression tests and the repository's checks. I care about recovery paths, cross-platform behavior, and making releases understandable—not just getting a happy-path demo running.
+
+### Toolbox
+
+| Focus | Technologies used in my projects |
+| --- | --- |
+| **Desktop & tooling** | Rust, Tauri, C#, .NET, WinUI 3, Python, Go |
+| **Web & backend** | TypeScript, React, Vue, Node.js, Django REST, Elixir/OTP |
+| **Data & delivery** | SQLite, PostgreSQL, Redis Streams, Docker, Kubernetes, GitHub Actions |
+| **Testing** | cargo test, pytest, Vitest, Playwright |
+
+## More to explore
 
 <details>
-<summary><strong>Additional technologies</strong></summary>
-<br />
+<summary><strong>More projects, localization, and experiments</strong></summary>
 
-C++, JavaScript, Elixir/OTP, PowerShell, SQL, Dart, GameMaker Language, Arduino and ESP32, Kustomize, and REST API design.
+- [OpenJobScout](https://github.com/cmdr-chara/open-job-scout) — local-first job discovery, verification, ranking, and application tracking.
+- [LocaleGuard](https://github.com/cmdr-chara/localeguard) — browser-only JSON localization QA for structure, placeholders, markup, and GameMaker control markers.
+- [Smart Building Controller](https://github.com/cmdr-chara/smart-building-controller) — Flutter, an authenticated PHP backend, ESP32/Arduino modules, and physical sensors.
+- [UTDR SoupGen Enhanced](https://github.com/cmdr-chara/UTDR-SoupGen) — GameMaker textbox tooling with import safeguards, recovery, and GIF export.
+- [Deltarune Italian Pack](https://github.com/cmdr-chara/DeltaruneItalianPack) — a maintained localization pack with reproducible release automation.
+- [PulseDock](https://github.com/cmdr-chara/PulseDock) — a concurrent Go service monitor with Prometheus metrics and structured logs.
+- [UTDR Dataset Toolkit](https://huggingface.co/datasets/cmdr-chara/utdr-dataset-toolkit) — public validators, synthetic examples, and methodology for a private SFT/RAG corpus; the corpus itself is not distributed.
 
 </details>
 
----
-
-## More Work
-
 <details>
-<summary><strong>Projects and experiments</strong></summary>
-<br />
-
-- [OpenJobScout](https://github.com/cmdr-chara/open-job-scout) — local-first job discovery, verification, ranking, and application tracking with transparent scoring, SQLite persistence, and Python/Rust runtimes.
-- [LocaleGuard](https://github.com/cmdr-chara/localeguard) — browser-only JSON localization QA for structural drift, placeholders, markup, escapes, and GameMaker control markers.
-- [Smart Building Controller](https://github.com/cmdr-chara/smart-building-controller) — Flutter app, authenticated PHP backend, ESP32 bridge, Arduino modules, and physical sensors/actuators.
-- [UTDR SoupGen Enhanced](https://github.com/cmdr-chara/UTDR-SoupGen) — GameMaker textbox tooling with safer imports, recovery, GIF export, and Windows builds.
-- [Deltarune Italian Pack](https://github.com/cmdr-chara/DeltaruneItalianPack) — maintained localization pack with reproducible release automation.
-- [UTDR Dataset Toolkit](https://huggingface.co/datasets/cmdr-chara/utdr-dataset-toolkit) — public Python validators, synthetic examples, and methodology for a private SFT/RAG corpus. Documents 5,262 SFT examples and 266 private evaluation cases; the source corpus and evaluation cases are not distributed.
-- [PulseDock](https://github.com/cmdr-chara/PulseDock) — concurrent Go service monitor with Prometheus metrics and structured logs.
-
-</details>
-
----
-
-## Activity
+<summary><strong>GitHub activity</strong></summary>
 
 <p align="center">
-  <img width="78%" src="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/profile-stats.svg" alt="cmdr-chara GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/profile-stats.svg" width="780" alt="Automatically generated GitHub activity statistics for cmdr-chara" />
 </p>
-
-<details>
-<summary><strong>Contribution graph</strong></summary>
-<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/cmdr-chara/cmdr-chara/output/github-contribution-grid-snake.svg" alt="Animated contribution graph for cmdr-chara" />
 </picture>
 
 </details>
 
 <details>
-<summary><strong>Outside code</strong></summary>
-<br />
+<summary><strong>Beyond code & artwork credits</strong></summary>
 
-Game aesthetics, localization, worldbuilding, and Fractured Hope.
+Game aesthetics, localization, worldbuilding, and [Fractured Hope](https://github.com/cmdr-chara/fractured-hope).
 
 Facing Demons Chara sprite by Jude. Textbox rendered with [Demirramon's generator](https://www.demirramon.com/generators/undertale_text_box_generator).
 
 </details>
 
 ---
-
-<p align="center">Issues and pull requests are welcome.</p>
 
 ```text
 * you feel a strange presence.
