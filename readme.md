@@ -18,7 +18,7 @@
 
 I like software with sharp edges: mod managers that patch real game files, network tools that measure connections under load, and bugs in existing codebases that need a reproducible cause—not a guess.
 
-My flagship projects are **Deltamod Community** and **speedtest-cli**. I also build full-stack applications, developer workflows, and contribute fixes upstream to projects including Zed, Synara, Guppy, TestSprite CLI, and OpenCode.
+My flagship projects are **Deltamod Community** and **speedtest-cli**. I also build local-first and full-stack applications, developer workflows, and contribute fixes upstream to projects including Zed, Synara, Guppy, TestSprite CLI, and OpenCode.
 
 ---
 
@@ -78,6 +78,29 @@ I built it to answer more useful questions than “how many Mbps do I have?”
 ---
 
 ## More engineering
+
+### [OpenJobScout](https://github.com/cmdr-chara/open-job-scout) · Local-first job search tooling
+
+**Find, verify, rank, and track jobs locally without sending your application history to a hosted OpenJobScout service.**
+
+<p align="center">
+  <a href="https://github.com/cmdr-chara/open-job-scout#demo">
+    <img src="https://raw.githubusercontent.com/cmdr-chara/open-job-scout/main/docs/assets/openjobscout-demo.gif" width="760" alt="OpenJobScout terminal walkthrough using fictional job listings" />
+  </a>
+</p>
+
+I built OpenJobScout around inspectable behavior instead of opaque matching claims. Search sources feed a local SQLite tracker; configurable rules explain ranking, public links and ATS listings can be re-verified, and manual application states survive crawler refreshes.
+
+- **Local-first state:** configuration, notes, application history, and the tracker stay on the user's machine; there is no OpenJobScout account or hosted tracker.
+- **Verification semantics:** discovery, `recheck`, `closed`, and `stale` have distinct meanings, with durable history recording automatic and manual transitions.
+- **Failure isolation:** discovery sources fail independently, optional Firecrawl support is explicit opt-in, and `doctor` checks configuration, storage, schema integrity, permissions, and dependencies.
+- **Two runtimes:** the Python CLI remains supported while the native Rust binary uses the same SQLite tracker schema and is the native release target.
+
+`Rust` · `Python` · `SQLite` · `CLI` · `Local-first` · `Cross-platform`
+
+[Demo](https://github.com/cmdr-chara/open-job-scout#demo) · [Quick start](https://github.com/cmdr-chara/open-job-scout#quick-start) · [Review workflow](https://github.com/cmdr-chara/open-job-scout#the-everyday-review-loop) · [Privacy model](https://github.com/cmdr-chara/open-job-scout#privacy-and-network-use)
+
+> Alpha software: listings should still be confirmed on the employer's official careers page before applying.
 
 ### [LeaveFlow](https://github.com/cmdr-chara/LeaveFlow) · Full-stack application
 
@@ -186,7 +209,6 @@ For hiring conversations, please use the contact details shared with my applicat
 
 <br />
 
-- [OpenJobScout](https://github.com/cmdr-chara/open-job-scout) — local-first job discovery, verification, ranking, and application tracking.
 - [LocaleGuard](https://github.com/cmdr-chara/localeguard) — browser-only JSON localization QA for structural drift, placeholders, markup, escapes, and GameMaker control markers.
 - [Smart Building Controller](https://github.com/cmdr-chara/smart-building-controller) — Flutter app, authenticated PHP backend, ESP32 bridge, Arduino modules, and physical sensors/actuators.
 - [UTDR SoupGen Enhanced](https://github.com/cmdr-chara/UTDR-SoupGen) — GameMaker textbox tooling with safer imports, recovery, GIF export, and Windows builds.
