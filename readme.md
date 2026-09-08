@@ -1,14 +1,13 @@
 <div align="center">
   <img src="assets/chara-wink-dialogue-red-green.gif" width="420" alt="Chara in an animated Undertale-style dialogue box" />
 
-  <h1>cmdr-chara · Chara</h1>
+  <h1>Chara</h1>
 
   <p><strong>Software developer · Desktop apps, developer tools, and open source</strong></p>
   <p>I build tools for modding games, understanding networks, and working with coding agents.</p>
 
   <p>
-    Open to software engineering roles<br />
-    <a href="mailto:249489759+cmdr-chara@users.noreply.github.com">249489759+cmdr-chara@users.noreply.github.com</a> · <strong>@cmdr-chara</strong>
+    <strong>@cmdr-chara</strong>
   </p>
 
   <p>
