@@ -69,6 +69,8 @@ I built it to answer more useful questions than “how many Mbps do I have?”
 
 `Rust` · `Terminal UI` · `Networking` · `Cross-platform` · `Automation`
 
+[**Source-available**](https://github.com/cmdr-chara/speedtest-cli/blob/determination/LICENSE) · Current source revisions use a custom license; the previously published v0.6.0 release remains MIT.
+
 [**Download**](https://github.com/cmdr-chara/speedtest-cli/releases/latest) · [See it in action](https://github.com/cmdr-chara/speedtest-cli#see-it-in-action) · [User guide](https://github.com/cmdr-chara/speedtest-cli/blob/determination/docs/usage.md) · [Verification evidence](https://github.com/cmdr-chara/speedtest-cli/blob/determination/docs/verification.md)
 
 > Demo visuals use deterministic illustrative data, not measurements of my own connection. Published releases may differ from current development UI.
@@ -143,7 +145,7 @@ I like fixes where the failure mode can be explained and the regression can be p
 
 <br />
 
-- **Zed:** [keyboard project-panel opens now honor the preview-tab setting](https://github.com/zed-industries/zed/pull/63758) and [long `ask_user` options wrap instead of overflowing](https://github.com/zed-industries/zed/pull/63656).
+- **Zed:** [keyboard project-panel opens now honor the preview-tab setting](https://github.com/zed-industries/zed/pull/63758) and [long `ask_user` options wrap instead of being truncated](https://github.com/zed-industries/zed/pull/63656).
 - **Guppy / Quantinuum:** replaced random QAOA parameter sampling with [SciPy optimization](https://github.com/Quantinuum/guppylang/pull/1801) in the example workflow.
 - **OpenCode:** added [built-in Undertale and Deltarune themes](https://github.com/anomalyco/opencode/pull/8240).
 - **Synara:** [browse my merged provider, reliability, security, backend, and frontend contributions](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara+is%3Amerged).
