@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="360" viewBox="0 0 300 360" role="img" aria-labelledby="title desc">
+  <title id="title">speedtest-cli</title>
+  <desc id="desc">Rust terminal tool for throughput and latency under load.</desc>
+  <rect width="300" height="360" rx="16" fill="#1b2027"/>
+  <rect x="1" y="1" width="298" height="358" rx="15" fill="none" stroke="#35404a" stroke-width="2"/>
+  <text x="22" y="37" fill="#83d6b0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">02 / NETWORKING</text>
+  <rect x="22" y="59" width="256" height="175" rx="9" fill="#11161c" stroke="#414b55"/>
+  <text x="37" y="86" fill="#83d6b0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">$ speedtest-cli</text>
+  <path d="M38 107h72m-72 12h116m-116 12h89" stroke="#566772" stroke-width="3" stroke-linecap="round"/>
+  <path d="M38 180h22l14-25 16 37 18-49 17 32 16-14 15 19 18-35 14 25 19-15 18 25h26" fill="none" stroke="#83d6b0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M38 198h224" stroke="#384650"/>
+  <text x="38" y="219" fill="#aebcc6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">THROUGHPUT  /  LOADED LATENCY</text>
+  <text x="22" y="274" fill="#f4f5f2" font-family="ui-sans-serif, system-ui, sans-serif" font-size="25" font-weight="700">speedtest-cli</text>
+  <text x="22" y="300" fill="#b4c0c8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Measure the whole connection.</text>
+  <path d="M22 322h256" stroke="#35404a"/>
+  <text x="22" y="342" fill="#83d6b0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">RUST  /  NETWORKING  /  TUI</text>
+</svg>

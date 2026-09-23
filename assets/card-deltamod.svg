@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="360" viewBox="0 0 300 360" role="img" aria-labelledby="title desc">
+  <title id="title">Deltamod Community</title>
+  <desc id="desc">Cross-platform mod manager with staged patching and rollback.</desc>
+  <rect width="300" height="360" rx="16" fill="#1b2027"/>
+  <rect x="1" y="1" width="298" height="358" rx="15" fill="none" stroke="#35404a" stroke-width="2"/>
+  <text x="22" y="37" fill="#e88a8f" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">01 / DESKTOP</text>
+  <rect x="22" y="59" width="256" height="175" rx="9" fill="#11161c" stroke="#414b55"/>
+  <rect x="22" y="59" width="256" height="25" rx="9" fill="#343d46"/>
+  <rect x="22" y="75" width="256" height="9" fill="#343d46"/>
+  <circle cx="37" cy="71" r="3" fill="#e88a8f"/>
+  <circle cx="48" cy="71" r="3" fill="#daa968"/>
+  <circle cx="59" cy="71" r="3" fill="#83d6b0"/>
+  <rect x="37" y="101" width="64" height="117" rx="4" fill="#222b33"/>
+  <rect x="110" y="101" width="153" height="48" rx="5" fill="#2a333c"/>
+  <rect x="122" y="112" width="43" height="26" rx="3" fill="#e06a70"/>
+  <path d="M176 116h72m-72 9h59m-59 9h42" stroke="#8595a1" stroke-width="3" stroke-linecap="round"/>
+  <rect x="110" y="158" width="153" height="48" rx="5" fill="#2a333c"/>
+  <rect x="122" y="169" width="43" height="26" rx="3" fill="#5c7683"/>
+  <path d="M176 173h72m-72 9h52m-52 9h63" stroke="#8595a1" stroke-width="3" stroke-linecap="round"/>
+  <path d="M42 113h39m-39 15h34m-34 15h42m-42 15h31" stroke="#70808c" stroke-width="3" stroke-linecap="round"/>
+  <rect x="185" y="216" width="77" height="6" rx="3" fill="#83d6b0"/>
+  <text x="22" y="274" fill="#f4f5f2" font-family="ui-sans-serif, system-ui, sans-serif" font-size="25" font-weight="700">Deltamod</text>
+  <text x="22" y="300" fill="#b4c0c8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Patch safely. Roll back.</text>
+  <path d="M22 322h256" stroke="#35404a"/>
+  <text x="22" y="342" fill="#e88a8f" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">RUST  /  TAURI  /  TYPESCRIPT</text>
+</svg>
