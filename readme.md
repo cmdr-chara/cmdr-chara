@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/profile-bio-dialogue.png" width="560" alt="You found a developer. They build apps and tools, and fix bugs upstream." />
+  <img src="assets/profile-bio-dialogue.png" width="560" alt="You found a developer. He builds apps and tools, and fixes bugs upstream." />
 </p>
 
 I build desktop apps and developer tools, and contribute fixes upstream.
