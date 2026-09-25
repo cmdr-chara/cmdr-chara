@@ -17,6 +17,7 @@ Rust · TypeScript · Flutter · Python · C#
 
 - [Deltamod Community](https://github.com/cmdr-chara/deltamod) — community-maintained mod manager ([demo](https://github.com/cmdr-chara/deltamod#see-it-in-action), [fork & attribution](https://github.com/cmdr-chara/deltamod#about-this-community-fork)).
 - [speedtest-cli](https://github.com/cmdr-chara/speedtest-cli) — Rust terminal tool for network measurements ([demo](https://github.com/cmdr-chara/speedtest-cli#see-it-in-action), [license](https://github.com/cmdr-chara/speedtest-cli/blob/determination/LICENSE)).
+- [Synara Rust/GPUI rewrite](https://github.com/cmdr-chara/synara) — my in-progress native Rust rewrite of [Synara](https://github.com/Emanuele-web04/synara).
 
 More: [OpenJobScout](https://github.com/cmdr-chara/open-job-scout) · [LeaveFlow](https://github.com/cmdr-chara/LeaveFlow) · [Smart Building Controller](https://github.com/cmdr-chara/smart-building-controller)
 
