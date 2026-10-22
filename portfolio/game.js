@@ -110,6 +110,11 @@ function hitButton(label,x,y,w,h,action,url){
  if(url){el.href=url;el.target='_blank';el.rel='noopener noreferrer';el.onclick=()=>action?.();}else el.onclick=e=>{e.preventDefault();play('select');action();};
  return el;
 }
+function pointerSelection(el,select){
+ // Recreated hit areas can receive pointer-enter events under a still mouse.
+ // Only actual pointer movement should take selection back from the keyboard.
+ el.onpointermove=e=>{if(e.pointerType!=='touch')select();};return el;
+}
 function change(next){mode=next;keys.clear();$('buttons').replaceChildren();canvas.dataset.mode=mode;}
 
 // ---- Scenes and doors.
@@ -324,7 +329,7 @@ function syncButtons(){
   else list.push(hitButton(t('continue'),16,e.dialoguer?.side?160:5,289,76,confirm));
  }
  if(mode==='shop'){
-  const m=shop.menu,choose=i=>()=>{shop.menuc[m]=i;shopConfirm();},hover=(b,i)=>{b.onmouseenter=()=>{shop.menuc[m]=i;};return b;};
+  const m=shop.menu,choose=i=>()=>{shop.menuc[m]=i;shopConfirm();},hover=(b,i)=>pointerSelection(b,()=>{shop.menuc[m]=i;});
   if(m===0)t('shopMenu').forEach((label,i)=>list.push(hover(hitButton(label,220,126+i*20,98,20,choose(i)),i)));
   if(m===1)[...profile.projects.map(p=>p.name),t('shopExit')].forEach((label,i)=>list.push(hover(hitButton(label,20,126+i*20,185,20,choose(i)),i)));
   if(m===2){list.push(hover(hitButton(t('yes'),220,165,90,15,()=>{play('buyitem');shop.sidemessage=1;setShopMenu(shop.confirm==='github'?3:1);},confirmUrl()),0),hover(hitButton(t('no'),220,180,90,15,choose(1)),1));}
@@ -337,7 +342,7 @@ function syncButtons(){
   }
  }
  if(mode==='menu'){
-  if(pauseMenu.destination===0)[gmlText('ITEM'),gmlText('STAT')].forEach((label,i)=>{const b=hitButton(label,40,94+i*18,43,18,()=>{pauseMenu.global.menucoord[0]=i;menuConfirm();});b.onmouseenter=()=>pauseMenu.global.menucoord[0]=i;list.push(b);});
+  if(pauseMenu.destination===0)[gmlText('ITEM'),gmlText('STAT')].forEach((label,i)=>list.push(pointerSelection(hitButton(label,40,94+i*18,43,18,()=>{pauseMenu.global.menucoord[0]=i;menuConfirm();}),()=>{pauseMenu.global.menucoord[0]=i;})));
   else if(pauseMenu.destination===4){
    if(pauseMenu.global.menucoord[4]<2)[gmlText('Save'),gmlText('Return')].forEach((label,i)=>list.push(hitButton(label,68+i*90,108,80,20,()=>{pauseMenu.global.menucoord[4]=i;menuConfirm();})));
    else list.push(hitButton(gmlText('File saved.'),68,108,170,20,menuConfirm));
