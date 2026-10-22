@@ -13,15 +13,36 @@ I build desktop apps and developer tools, and contribute fixes upstream.
 
 Rust · TypeScript · Flutter · Python · C#
 
-**Projects**
+## My portfolio
 
-- [Deltamod Community](https://github.com/cmdr-chara/deltamod) — community-maintained mod manager ([demo](https://github.com/cmdr-chara/deltamod#see-it-in-action), [fork & attribution](https://github.com/cmdr-chara/deltamod#about-this-community-fork)).
+Explore my projects, skills and open-source contributions through a small Undertale-inspired game.
+
+<p align="center">
+  <a href="https://cmdr-chara.github.io/cmdr-chara/">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-preview.png" />
+      <img src="assets/portfolio-preview.webp" width="640" height="480" alt="Preview of my interactive portfolio: explore Waterfall and meet Chara in the project shop. Click to open the portfolio." />
+    </picture>
+  </a>
+  <br />
+  <a href="https://cmdr-chara.github.io/cmdr-chara/"><strong>♥ Open portfolio · IT / EN</strong></a>
+</p>
+
+Prefer reading? The projects, contributions and contact link are right below.
+
+## Projects
+
+- [Deltamod Community](https://github.com/cmdr-chara/deltamod-community) — community-maintained mod manager ([demo](https://github.com/cmdr-chara/deltamod-community#see-it-in-action), [fork & attribution](https://github.com/cmdr-chara/deltamod-community#about-this-community-fork)).
 - [speedtest-cli](https://github.com/cmdr-chara/speedtest-cli) — Rust terminal tool for network measurements ([demo](https://github.com/cmdr-chara/speedtest-cli#see-it-in-action), [license](https://github.com/cmdr-chara/speedtest-cli/blob/determination/LICENSE)).
-- [Synara Rust/GPUI rewrite](https://github.com/cmdr-chara/synara) — my in-progress native Rust rewrite of [Synara](https://github.com/Emanuele-web04/synara).
+- [Chara's Toolkit](https://github.com/cmdr-chara/chara-toolkit) — specialist skills and workflows for coding agents.
 
 More: [OpenJobScout](https://github.com/cmdr-chara/open-job-scout) · [LeaveFlow](https://github.com/cmdr-chara/LeaveFlow) · [Smart Building Controller](https://github.com/cmdr-chara/smart-building-controller)
 
-**Contributions**
+## Contributions
 
 - [Synara](https://github.com/Emanuele-web04/synara/pull/886) — fixes for concurrent writes and cross-window state ([merged PRs](https://github.com/Emanuele-web04/synara/pulls?q=is%3Apr+author%3Acmdr-chara+is%3Amerged)).
 - [Zed](https://github.com/zed-industries/zed/pull/63766) · [TestSprite CLI](https://github.com/TestSprite/testsprite-cli/pull/118) · [all merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Acmdr-chara+-user%3Acmdr-chara&type=pullrequests)
+
+## Contact
+
+[Find me on GitHub](https://github.com/cmdr-chara).
