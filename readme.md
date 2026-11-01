@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cmdr-chara.github.io/cmdr-chara/">
-    <img src="assets/snowdin-banner.png" width="100%" alt="A knife and gold heart locket resting in the snow, with the Snowdin forest fading into the distance." />
+    <img src="assets/snowdin-banner.svg" width="100%" alt="A knife and gold heart locket resting in the snow, with the Snowdin forest fading into the distance." />
   </a>
 </p>
 
